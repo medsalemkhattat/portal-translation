@@ -1,0 +1,79 @@
+{
+	"common": {
+		"buttonLabels": {
+			"cancel": "CANCEL",
+			"next": "NEXT",
+			"setUp": "SETUP",
+			"setUpNew": "SETUP NEW",
+			"yes": "YES",
+			"no": "NO"
+		},
+		"text": {
+			"autoTransferToBank": "Auto-Transfer to Bank",
+			"notSet": "Auto-transfer not set yet",
+			"setUpmsg": "Set up your auto transfer for hassle free transfers",
+			"tobnk": "to your bank accounts",
+			"areYouSure": "Are you sure you want to",
+			"resume": "resume",
+			"delete": "delete",
+			"pause": "pause",
+			"thisAutoTransfer": "this Auto-Transfer?",
+			"setup": "Setup",
+			"modify": "Modify",
+			"enterInformation": "Enter Information",
+			"startDate": "Start Date",
+			"repeat": "Repeat",
+			"selectRecurringType": "Select Recurring Type",
+			"amountWillBeAutoTransferred": "Amount will be auto-transferred",
+			"daily": "Daily",
+			"selectAll": "Select all",
+			"clear": "Clear",
+			"ofEvery": "every",
+			"week": "week",
+			"month": "Month",
+			"time": "Time",
+			"currency": "Currency",
+			"selectCurrency": "Select currency",
+			"autoSweepTo": "Auto Sweep To",
+			"selectBankAccount": "Select bank account",
+			"from": "From",
+			"selectWallet": "Select wallet",
+			"minimumBalance": "Minimum Balance",
+			"walletAfterEveryTransferInfo": "This is the amount that you will always have in your wallet after every transfer",
+			"on": "on",
+			"active": "Active",
+			"paused": "Paused",
+			"enterAmount": "Enter Amount",
+			"startsOn": "starts on",
+			"at": "at",
+			"frequency": "Frequency",
+			"paymentInfo": "Payment Info",
+			"unauthorized": "Unauthorized",
+			"token": "Token",
+			"and": "and",
+			"suspended": "Suspended"
+		},
+		"column": {
+			"autoTransferto": "AUTO-TRANSFER TO",
+			"from": "FROM",
+			"repeat": "REPEAT",
+			"time": "TIME",
+			"startsOn": "STARTS ON",
+			"minAmount": "MINIMUM AMOUNT",
+			"status": "STATUS",
+			"action": "ACTION"
+		}
+	},
+	"snackBar": {
+		"close": "Close"
+	},
+	"pageNotFound": {
+		"error404": "404 We are searching for your page...",
+		"errorNotFound": "... But we can not find it."
+	},
+	"messages": {
+		"ContactSysAdmin": "Oh No! Something went wrong. Please contact System Administrator.",
+		"serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
+		"internalServerError": "Internal Server Error!"
+	}
+}

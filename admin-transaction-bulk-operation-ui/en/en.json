@@ -1,0 +1,64 @@
+{
+  "common": {
+    "buttonLabels": {
+      "reset": "RESET",
+      "search": "SEARCH"
+    },
+    "text": {
+      "goToPage": "Go to page",
+      "show": "Show:",
+      "adminTransaction": "Admin Transaction",
+      "singleOperation": "Single Operation",
+      "multipleOperation": "Multiple Operation"
+    }
+  },
+  "snackBar": {
+    "close": "Close"
+  },
+  "adminBulkTransaction": {
+    "confirmation": {
+      "ContactSysAdmin": "Oh No! Something went wrong. Please contact System Administrator."
+    }
+  },
+  "messages": {
+    "noDataFound": "No data present",
+    "serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
+    "internalServerError": "Internal Server Error!"
+  },
+  "interestDisbursal": {
+    "text": {
+      "searchResults": "Search Results",
+      "duration": "DURATION",
+      "category": "CATEGORY",
+      "grade": "GRADE",
+      "walletType": "WALLET TYPE",
+      "userCount": "USER COUNT",
+      "interestAmount": "INTEREST AMOUNT",
+      "principalAmount": "PRINCIPAL AMOUNT",
+      "status": "STATUS",
+      "action": "ACTIONS",
+      "viewAllDetails": "View all details",
+      "initiated": "Initiated",
+      "disbursed": "Disbursed",
+      "notDisbursed": "Not disbursed",
+      "partiallyDisbursed": "Partially disbursed",
+      "failed": "Failed",
+      "yourSearchResultsWillAppearHere": "Your Search Results Will Appear Here",
+      "more": "More",
+      "pageUnderConstruction": "Page Under Construction",
+      "searchBy": "Search By",
+      "startMonth": "Start Month",
+      "endMonth": "End Month",
+      "interestWalletBalance": "Interest Wallet Balance",
+      "moreDetails": "More Details",
+      "currency": "Currency",
+      "categoryFilter": "Category",
+      "gradeFilter": "Grade",
+      "walletTypeFilter": "Wallet Type",
+      "userCountFilter": "User Count",
+      "interestAmountFilter": "Interest Amount",
+      "principalAmountFilter": "Principal Amount",
+      "statusFilter": "Status"
+    }
+  }
+}

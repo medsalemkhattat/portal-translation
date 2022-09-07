@@ -1,0 +1,6 @@
+[
+	{"name": "Approved", "value": "SUCCEEDED"},
+	{"name": "Failed", "value": "FAILED"},
+	{"name": "Rejected", "value": "REJECTED"},
+	{"name": "Initiated", "value": "INITIATED"}
+]

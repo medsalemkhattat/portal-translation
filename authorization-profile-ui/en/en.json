@@ -1,0 +1,99 @@
+{
+	"authProfile": {
+		"title": "authorization profile",
+		"addProfile": {
+			"title": "add profile"
+		},
+		"editProfile": {
+			"title": "edit profile"
+		},
+		"cloneProfile": {
+			"title": "clone profile"
+		},
+		"viewProfile": {
+			"title": "view profile"
+		},
+		"reviewProfile": {
+			"title": "Review and Confirm",
+			"moduleConfigured": "module configured in total",
+			"modulesConfigured": "modules configured in total"
+		},
+		"listProfile": {
+			"filters": {
+				"text": {
+					"status": "Status",
+					"category": "Category"
+				},
+				"checkbox": {
+					"default": "Default",
+					"userDefined": "User-Defined"
+				}
+			},
+			"table": {
+				"columns": {
+					"profileName": "PROFILE NAME",
+					"category": "CATEGORY",
+					"type": "TYPE",
+					"createdOn": "CREATED ON",
+					"createdBy": "CREATED BY",
+					"modifiedOn": "MODIFIED ON"
+				}
+			}
+		}
+	},
+	"common": {
+		"text": {
+			"selectUserType": "Select user type",
+			"selectUserRole": "Select user role",
+			"setupProfile": "setup profile",
+			"profileName": "profile name",
+			"enterProfileName": "Enter Profile Name",
+			"modules": "Modules",
+			"services": "Services",
+			"setServicePreferences": "Set Service Preferences",
+			"search": "search",
+			"action": "ACTION",
+			"usersAllowed": "users allowed",
+			"channelsAllowed": "channels allowed",
+			"userType": "user type",
+			"userRole": "user role",
+			"profileDetails": "profile details",
+			"profileNameRequired": "Profile Name is required",
+			"goToPage": "Go to Page",
+			"show": "Show",
+			"nextPage": "Next PAge",
+			"previousPage": "Previous Page"
+		},
+		"buttonLabels": {
+			"filters": "filters",
+			"apply": "apply",
+			"clear": "clear",
+			"close": "CLOSE",
+			"cancel": "cancel",
+			"add": "add",
+			"success": "success",
+			"done": "done",
+			"error": "error",
+			"back": "back",
+			"confirm": "confirm",
+			"modify": "modify",
+			"yes": "yes",
+			"no": "no"
+		}
+	},
+	"messages": {
+		"serviceUnavailable": "Service is currently unavailable",
+		"unauthorized": "You are not authorized",
+		"internalServerError": "Internal Server Error",
+		"contactSysAdmin": "Something went wrong! Please contact System Administrator.",
+		"noOptionsAvailable": "No options available for",
+		"noDataFound": "No Data Found",
+		"selectGatewayTypes": "Select atleast one gateway type",
+		"deleteModalMessage": "Are you sure you want to delete the profile ?",
+		"viewUnauthorized": "You don't have privileges to view this record."
+	},
+	"errorPage": {
+		"pageNotFound": "Sorry, the page you are looking for is not available.",
+		"unauthorized": "Sorry, you are not authorized to access the webpage. Try to login again. If the problem persists, contact administrator for further information."
+	}
+}

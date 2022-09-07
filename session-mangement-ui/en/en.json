@@ -1,0 +1,73 @@
+{
+	"allSessions": {
+		"deleteAll": "Deleted all devices.",
+		"deleteSelected": "Deleted all selected devices.",
+		"deviceDeleted": " device has been deleted.",
+		"deviceLogOut": " device has been logged out.",
+		"loggedOutAll": "Logged out of all sessions.",
+		"loggedOutSelected": "Logged out of all selected sessions.",
+		"searchResults": "Your search results will appear here",
+		"sessionOf": " Session Of"
+	},
+	"button": {
+		"active": "Active",
+		"current": "Current",
+		"apply": "APPLY",
+		"clear": "CLEAR",
+		"close": "Close",
+		"closed": "Closed",
+		"delete": "Delete",
+		"deleteAll": "Delete all devices",
+		"deleteDevices": "DELETE DEVICES",
+		"filters": "Filters",
+		"logout": "Logout",
+		"logoutAll": "Log out of all sessions",
+		"logoutSessions": "LOGOUT OF SESSIONS",
+		"no": "No",
+		"reset": "RESET",
+		"search": "SEARCH",
+		"yes": "Yes"
+	},
+	"header": {
+		"allSessions": "All Sessions",
+		"mySessions": "My Sessions",
+		"searchSessions": "Search Sessions",
+		"sessionDetails": "Session Details",
+		"sessionInfo": "Session Information"
+	},
+	"label": {
+		"actions": "ACTIONS",
+		"browser": "Browser",
+		"device": "Device",
+		"deviceId": "Device Id",
+		"ip": "IP Address",
+		"location": "Location",
+		"loginId": "Login Identifier",
+		"loginTime": "Login Time",
+		"logoutTime": "Logout Time",
+		"status": "Status",
+		"duration": "Duration"
+	},
+	"modal": {
+		"activeSessionLogout": "active session, Are you sure you want to logout from this session?",
+		"delete": "Are you sure you want to logout and delete this session?",
+		"deleteExcept": "Are you sure you want to delete all devices except this current device?",
+		"deleteSurity": "Are you sure you want to delete",
+		"devices": "devices?",
+		"logout": "Are you sure you want to logout of this session?",
+		"logoutExcept": "Are you sure you want to logout from all sessions except this current session?",
+		"note": "Please note : Any active sessions will be logged out of and deleted",
+		"youHaveOnly": "You have only"
+	},
+	"text": {
+		"all": "All",
+		"pagesSelect": "sessions on this page are selected",
+		"selectAll": "Select all",
+		"sessionsOfMySessions": "sessions of my sessions",
+		"sessionsAreSelected": "sessions are selected",
+		"goToPage": "Go to Page",
+		"show": "Show",
+		"previousPage": "Previous Page",
+		"nextPage": "Next Page"
+	}
+}

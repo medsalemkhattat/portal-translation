@@ -1,0 +1,39 @@
+{
+	"text" : {
+		"bankMaster": "Bank Master",
+		"moreDetails": "More Details"
+	},
+	"column": {
+		"priority": "PRIORITY",
+		"bankName": "BANK NAME",
+		"bankType": "BANK TYPE",
+		"currency": "CURRENCY",
+		"accountNumber": "ACCOUNT NUMBER",
+		"bankUniqueId": "BANK UNIQUE ID",
+		"createdOn": "CREATED ON",
+		"action": "ACTION",
+		"accountType": "Account Type",
+		"overdraftlimit": "Overdraft Limit",
+		"cbsType": "CBS Type"
+	},
+	"footer": {
+		"show": "Show:",
+		"goToPage": "Go to Page:"
+	},
+	"error": {
+		"noRecFound" : "No Records found ",
+		"close": "Close"	
+	},
+	"catch": {
+		"cudNotConnect": "Could Not connect to the server"
+	},
+	"messages" : {
+		"noDataFound": "No data present",
+		"serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
+		"internalServerError": "Internal Server Error!",
+		"unauthorized": "Sorry, you are not authorized to access the webpage. Try to login again. If the problem persists, contact administrator for further information."
+	},
+	"confirmation": {
+		"ContactSysAdmin": "Oh No! Something went wrong. Please contact System Administrator."
+	}
+}

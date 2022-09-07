@@ -1,0 +1,139 @@
+{
+  "resumeSuspend": {
+    "resumeUser": "RESUME USER",
+    "suspendUser": "SUSPEND USER",
+    "mobileNumber": "Mobile No.",
+    "name": "Name",
+    "kycIdType": "KYC ID Type",
+    "kycNumber": "KYC Number",
+    "reason": "Reason",
+    "reasonReq": "Reason is required",
+    "resBtn": "Resume",
+    "susBtn": "Suspend"
+  },
+  "modifyWallet": {
+    "tabs": {
+      "all": "All",
+      "approved": "Approved",
+      "rejected": "Rejected"
+    },
+    "sectionHeader": "Wallets"
+  },
+  "icons": {
+    "view": "View All",
+    "suspend": "Suspend User",
+    "resume": "Resume user",
+    "wallet": "Modify Wallet status",
+    "primaryAcc": "Modify primary account",
+    "susWallet": "Suspend Wallet",
+    "resWallet": "Resume Wallet",
+    "delWallet": "Delete wallet"
+  },
+
+  "primaryAccNum": {
+    "modify": "Modify",
+    "modifyPrDetails": "Modify Primary Details",
+    "mobileNo": "Mobile no.",
+    "name": "Name",
+    "kycIdType": "KYC ID type",
+    "kycNumber": "KYC number",
+    "accNo": "Account No:",
+    "editPrAccMobNo": "Edit Primary Account/Mobile No.",
+    "currMobNo": "Current mobile no:",
+    "newMobNo": "New mobile no.",
+    "modifyFail": "Modification initiation has failed",
+    "modifySuccess": "Request initiated for approval",
+    "save": "Save",
+    "kycModifyHeader": "KYC DETAILS (PRIMARY)",
+    "issuedPlace": "Issued Place",
+    "issuedCountry": "Issued Country",
+    "issuedDate": "Issued Date",
+    "validity": "Validity",
+    "editKycHeader": "EDIT PRIMARY KYC",
+    "reqKycIdType": "KYC ID type is required",
+    "reqKycIdValue": "KYC ID value is required",
+    "invalidKycIdValue": "Invalid KYC ID value",
+    "expiryDate": "Expiry Date",
+    "uploadImage": "Upload",
+    "kycIdValue": "KYC ID value"
+  },
+  "button": {
+    "save": "Save changes",
+    "previous": "Previous",
+    "kycDetail": "KYC Details",
+    "accountDetail": "Account Details"
+  },
+  "recentActivity": {
+    "tabs": {
+      "modifications": "Modifications",
+      "linking": "Linking",
+      "accountModification": "Account modification",
+      "suspendResume": "Suspend/Resume user",
+      "walletModification": "Wallet modification",
+      "primaryAccount": "Primary detail modification"
+    }
+  },
+  "userMessage": {
+    "modifySuccess": "Modification successful",
+    "confirm": "CONFIRM",
+    "cancel": "Do you really want to cancel the modification?",
+    "noChange": "You have not modified any values."
+  },
+  "wallet": {
+    "topComponent": {
+      "initiatedBy": " Initiated By",
+      "initiatedOn": "Initiated On",
+      "modifiedBy": "Modified By",
+      "modifiedOn": "Modified On"
+    },
+    "table": {
+      "headers": {
+        "mfsProvider": "MFS PROVIDER",
+        "walletType": "WALLET TYPES",
+        "grade": "GRADE",
+        "prevStatus": "PREVIOUS STATUS",
+        "currentStatus": "CURRENT STATUS",
+        "balance": "BALANCE",
+        "primaryWallet": "PRIMARY WALLET",
+        "actions": "ACTIONS"
+      },
+      "status": {
+        "active": "Active",
+        "suspended": "Suspended",
+        "suspendInitiate": "Suspend Initiated",
+        "deleteInitiate": "Delete Initiated",
+        "resumeInitiate": "Resume Initiated",
+        "inactive": "Inactive",
+        "yes": "Yes",
+        "no": "No"
+      }
+    },
+    "breadCrumb": {
+      "modify": "Modify",
+      "walletDetails": "Wallet Details and Status",
+      "walletApproval": "Wallet Status Approval",
+      "actions": "Actions",
+      "recentActivity": "Wallet Recent Activity"
+    },
+    "sectionHeader": "Wallets",
+    "button": {
+      "approve": "APPROVE",
+      "reject": "REJECT",
+      "withdraw": "WITHDRAW",
+      "cancel": "CANCEL"
+    }
+  },
+  "view": {
+    "modify": "Modify",
+    "accountDetails": "View Accout Details",
+    "accountIdType": "ACCOUNT ID TYPE",
+    "accountIdValue": "ACCOUNT ID VALUE",
+    "kycPrimary": "KYC DETAILS (PRIMARY)",
+    "kycDetails": "KYC DETAILS"
+  },
+  "dialog": {
+    "title": "Are you sure?",
+    "approveText": "Approve Modification",
+    "rejectText": "Reject modification"
+  }
+}

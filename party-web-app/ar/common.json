@@ -1,0 +1,171 @@
+{
+  "logout": {
+    "header": "Logged out",
+    "message": "Session ended! Please login again."
+  },
+  "general": {
+    "numbers": {
+      "0": "0",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10",
+      "11": "11",
+      "12": "12",
+      "13": "13",
+      "14": "14",
+      "15": "15",
+      "40": "40",
+      "80": "80"
+    }
+  },
+  "drawer": {
+    "CUST_REG": "Registration",
+    "CUST_REG_APPR": "Approvals",
+    "appName": "Party Management",
+    "REGULATORY_PROFILE": "Regulatory Profiles",
+    "MARKETING_PROFILE": "Marketing Profiles",
+    "UNBLOCK_USER": "Unblock User",
+    "MODIFY": "Modify",
+    "RECENT_ACTIVITY": "My Recent Activity",
+    "ERROR_MESSAGE": "Error Messages"
+  },
+  "button": {
+    "search": "Search",
+    "reset": "Reset",
+    "add": "Add",
+    "save": "Save",
+    "back": "Back",
+    "close": "Close",
+    "cancel": "Cancel",
+    "edit": "Edit details",
+    "view": "View Details",
+    "reason": "View Remarks",
+    "addWallet": "Add Wallet"
+  },
+  "sectionHeader": {
+    "searchBy": "Search by"
+  },
+  "recordContainer": {
+    "regDate": "Registration date",
+    "initBy": "Initiated by",
+    "tabs": {
+      "userDetails": "USER DETAILS",
+      "kycDetails": "KYC DETAILS",
+      "accountDetails": "ACCOUNT DETAILS",
+      "accessIdentifier": "ACCESS IDENTIFIERS"
+    },
+    "accountNo": "Account No",
+    "approvalStatus": "Approval status",
+    "rejectedOn": "Rejected on",
+    "rejectedBy": "Rejected by",
+    "rejectedReason": "Rejected Reason",
+    "none": "None",
+    "approvedOn": "Approved on",
+    "approvedBy": "Approved by",
+    "accountNoTab": "Account No :",
+    "modifiedOn": "Modified on",
+    "modifiedBy": "Modified by",
+    "panel": {
+      "userPreference": "USER PREFERENCE",
+      "personalInfo": "PERSONAL INFO",
+      "familyInfo": "FAMILY INFO",
+      "employment": "EMPLOYMENT",
+      "kin": "KIN",
+      "other": "OTHER",
+      "addressDetails": "ADDRESS DETAILS",
+      "kycDetails": "KYC DETAILS",
+      "mobileNumber": "MOBILE/ ACCOUNT NUMBER",
+      "kycPrimary": "KYC DETAILS (PRIMARY)",
+      "regulatoryProfile": "REGULATORY PROFILE",
+      "marketingProfile": "MARKETING PROFILE"
+    },
+    "btn": {
+      "approve": "APPROVE"
+    }
+  },
+  "input": {
+    "mobileNumber": "Mobile Number",
+    "fromDate": "From Date",
+    "toDate": "To Date",
+    "profileCode": "Profile Code",
+    "profileName": "Profile Name",
+    "actions": "Actions",
+    "kycIdType": "KYC ID type",
+    "kycNumber": "KYC Number",
+    "name": "Name"
+  },
+  "status": {
+    "approved": "APPROVED",
+    "rejected": "REJECTED",
+    "failed": "FAILED",
+    "pending": "PENDING",
+    "processing": "UNDER PROCESSING"
+  },
+  "emptyMessage": "No records found",
+
+  "unblock": {
+    "headers": {
+      "accessIdentifier": "Access Identifier",
+      "accessIdentifierValue": "Access Identifier Value",
+      "customerName": "Customer Name",
+      "kycIdType": "KYC ID Type",
+      "kycNumber": "KYC Number",
+      "blockingDate": "Blocking Date",
+      "actions": "Actions",
+      "mobileNumber": "Mobile No."
+    },
+    "search": {
+      "toDate": "To date",
+      "fromDate": "From Date",
+      "accessIdentifierType": "Access Identifier Type",
+      "accessIdentifierValue": "Access Identifier Value",
+      "mobileNumber": "Mobile Number",
+      "emailId": "Email Id",
+      "loginId": "Login Id",
+      "otherId": "Other Id",
+      "none": "None"
+    },
+    "button": {
+      "unblockButton": "Unblock"
+    },
+    "sectionHeader": "Blocked users"
+  },
+  "header": "Customer Accounts",
+  "tabs": {
+    "all": "All",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected"
+  },
+  "filters": {
+    "mobileNumber": "Mobile/Account Number",
+    "kycId": "KYC ID"
+  },
+  "view": {
+    "modify": "Modify",
+    "viewAccDetails": "View Account Details",
+    "primaryKyc": "KYC DETAILS (PRIMARY)",
+    "accountIdType": "ACCOUNT ID TYPE",
+    "accountIdValue": "ACCOUNT ID VALUE",
+    "accountDetails": "Account Details",
+    "myRecentActivity": "My Recent Activity",
+    "accountModification": "Account Modification",
+    "approvals": "Approvals",
+    "regApprovals": "Registration Approvals",
+    "register": "Register",
+    "modifyAccDetails": "Modify Account Details",
+    "accountNo": "Account no",
+    "modificationApproval": "Modification Approval",
+    "primaryModApproval": "Primary Modification Approval",
+    "primaryDetailsMod": "Primary Details Modification"
+  },
+  "suspended": "Suspended",
+  "active": "Active"
+}

@@ -1,0 +1,131 @@
+{
+  "approval": {
+    "heading": "Customer Registration Approval",
+    "filters": {
+      "regFromDate": "Registration From Date",
+      "regToDate": "Registration To Date",
+      "mobileNo": "Mobile Number",
+      "KycIdValue": "KYC ID Value",
+      "firstname": "First Name",
+      "lastname": "Last Name"
+    },
+    "searchBtn": "Search",
+    "resetBtn": "Reset",
+    "table": {
+      "approvalBtn": "Approval Records",
+      "initiatedRecordBtn": "Initiated Records",
+      "rejectedRecordBtn": "Rejected Records",
+      "mobileNo": "Mobile Number",
+      "customerName": "Customer Name",
+      "KycIdType": "KYC ID Type",
+      "KycIdValue": "KYC ID Value",
+      "KycNumber": "KYC Number",
+      "initiatedBy": "Initiated By",
+      "registrationDate": "Registration Date",
+      "initiatedOn": "Initiated On",
+      "rejectedOn": "Rejected On",
+      "rejectedBy": "Rejected By",
+      "rejectionComments": "Rejection Comments",
+      "userStatus": "User Status",
+      "actions": "Actions",
+      "approveButton": "Approve",
+      "rejectbutton": "Reject",
+      "approvedOn": "Approved On",
+      "approvalStatus": "Approval Status",
+      "modifiedOn": "Modified On",
+      "modifiedBy": "Modified By"
+    },
+    "record": {
+      "mobile_no": "Mobile No",
+      "customer_name": "Customer Name",
+      "kyc_id_type": "KYC ID Type",
+      "kyc_id_value": "KYC ID Value",
+      "initiated_by": "Initiated By",
+      "initiated_on": "Initiated On",
+      "rejected_on": "Rejected On",
+      "rejected_by": "Rejected By",
+      "rejection_comments": "Rejection Comments",
+      "close": "Close",
+      "withdraw": "Withdraw",
+      "approve": "Approve",
+      "reject": "Reject",
+      "cancel": "Cancel",
+      "rows": "Rows per page",
+      "selected": "selected",
+      "heading": {
+        "pending_approval": "Pending Approval Records",
+        "initiated_records": "Unapproved Records",
+        "rejected_records": "Rejected Records"
+      },
+      "dialog": {
+        "heading": "Record Details",
+        "account_access_info": "Account Access Information",
+        "personal_info": "Personal Information",
+        "family_info": "Family Information",
+        "address_details": "Address Details",
+        "employment_details": "Employment Details",
+        "kin_details": "Kin Details",
+        "other_details": "Other Details",
+        "kyc_details": "KYC Details",
+        "account_details": "Account Details",
+        "expand": "Expand All",
+        "collapse": "Collapse All",
+        "close": "Close"
+      }
+    },
+    "modification": {
+      "header": "Modified Wallet Details",
+      "mobileNumber": "Mobile Number",
+      "customerName": "Customer Name",
+      "kycIdType": "KYC ID Type",
+      "kycIdValue": "KYC ID Value",
+      "sNo": "S.No.",
+      "mfsProvider": "MFS Provider",
+      "walletType": "Wallet Type",
+      "grade": "Grade",
+      "currentStatus": "Current Status",
+      "statusChangedTo": "Status Changed To",
+      "approveBtn": "Approve",
+      "rejectBtn": "Reject",
+      "rejectionComments": "Rejection Comments",
+      "resumeBtn": "Resume",
+      "cancel": "Cancel",
+      "close": "Close"
+    },
+    "rejectUser": "REJECT USER",
+    "withdrawUser": "WITHDRAW USER",
+    "mobileNo": "Mobile No.",
+    "name": "Name",
+    "kycIdType": "KYC ID Type",
+    "kycNumber": "KYC Number",
+    "rejectionCommentReq": "Rejection comment is required",
+    "withdrawCommentReq": "Withdraw comment is required",
+    "reject": "Reject",
+    "approve": "Approve",
+    "approveHead": "APPROVE"
+  },
+  "all_approval": {
+    "tabs": {
+      "reg_approval": "Registration approval",
+      "mod_approval": "Modification approval",
+      "wall_mod_approval": "Wallet modification approval",
+      "pri_mod_approval": "Primary modification approval"
+    },
+    "reg_approval": {
+      "tabs": {
+        "pending": "Pending",
+        "requests": "Requests",
+        "approved": "Approved",
+        "rejected": "Rejected"
+      }
+    },
+    "sectionheader": "Customer Accounts",
+    "input": {
+      "mobileNumber": "Mobile Number",
+      "fromDate": "From Date",
+      "toDate": "To Date",
+      "kycIdType": "KYC ID Type",
+      "kycNumber": "KYC Number"
+    }
+  }
+}

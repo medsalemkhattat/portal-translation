@@ -1,0 +1,13 @@
+{
+  "pageLabel": "Error Messages",
+  "fields": {
+    "labels": {
+      "module": "Module",
+      "service": "Service",
+      "errorCode": "Error code",
+      "language": "Language",
+      "messageParameters": "Message parameters",
+      "message": "Message"
+    }
+  }
+}
