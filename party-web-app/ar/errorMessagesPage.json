@@ -1,13 +1,1 @@
-{
-  "pageLabel": "Error Messages",
-  "fields": {
-    "labels": {
-      "module": "Module",
-      "service": "Service",
-      "errorCode": "Error code",
-      "language": "Language",
-      "messageParameters": "Message parameters",
-      "message": "Message"
-    }
-  }
-}
+{"pageLabel":"رسائل خاطئة","fields":{"labels":{"module":"وحدة","service":"خدمة","errorCode":"خطا بالكود","language":"لغة","messageParameters":"معلمات الرسالة","message":"رسالة"}}}

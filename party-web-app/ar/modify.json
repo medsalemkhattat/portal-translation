@@ -1,139 +1,138 @@
 {
-  "resumeSuspend": {
-    "resumeUser": "RESUME USER",
-    "suspendUser": "SUSPEND USER",
-    "mobileNumber": "Mobile No.",
-    "name": "Name",
-    "kycIdType": "KYC ID Type",
-    "kycNumber": "KYC Number",
-    "reason": "Reason",
-    "reasonReq": "Reason is required",
-    "resBtn": "Resume",
-    "susBtn": "Suspend"
-  },
-  "modifyWallet": {
-    "tabs": {
-      "all": "All",
-      "approved": "Approved",
-      "rejected": "Rejected"
+    "resumeSuspend": {
+        "resumeUser": "استئناف المستخدم",
+        "suspendUser": "تعليق المستخدم",
+        "mobileNumber": "رقم الموبايل.",
+        "name": "اسم",
+        "kycIdType": "نوع معرف KYC",
+        "kycNumber": "رقم KYC",
+        "reason": "سبب",
+        "reasonReq": "السبب مطلوب",
+        "resBtn": "سيرة ذاتية",
+        "susBtn": "تعليق"
     },
-    "sectionHeader": "Wallets"
-  },
-  "icons": {
-    "view": "View All",
-    "suspend": "Suspend User",
-    "resume": "Resume user",
-    "wallet": "Modify Wallet status",
-    "primaryAcc": "Modify primary account",
-    "susWallet": "Suspend Wallet",
-    "resWallet": "Resume Wallet",
-    "delWallet": "Delete wallet"
-  },
-
-  "primaryAccNum": {
-    "modify": "Modify",
-    "modifyPrDetails": "Modify Primary Details",
-    "mobileNo": "Mobile no.",
-    "name": "Name",
-    "kycIdType": "KYC ID type",
-    "kycNumber": "KYC number",
-    "accNo": "Account No:",
-    "editPrAccMobNo": "Edit Primary Account/Mobile No.",
-    "currMobNo": "Current mobile no:",
-    "newMobNo": "New mobile no.",
-    "modifyFail": "Modification initiation has failed",
-    "modifySuccess": "Request initiated for approval",
-    "save": "Save",
-    "kycModifyHeader": "KYC DETAILS (PRIMARY)",
-    "issuedPlace": "Issued Place",
-    "issuedCountry": "Issued Country",
-    "issuedDate": "Issued Date",
-    "validity": "Validity",
-    "editKycHeader": "EDIT PRIMARY KYC",
-    "reqKycIdType": "KYC ID type is required",
-    "reqKycIdValue": "KYC ID value is required",
-    "invalidKycIdValue": "Invalid KYC ID value",
-    "expiryDate": "Expiry Date",
-    "uploadImage": "Upload",
-    "kycIdValue": "KYC ID value"
-  },
-  "button": {
-    "save": "Save changes",
-    "previous": "Previous",
-    "kycDetail": "KYC Details",
-    "accountDetail": "Account Details"
-  },
-  "recentActivity": {
-    "tabs": {
-      "modifications": "Modifications",
-      "linking": "Linking",
-      "accountModification": "Account modification",
-      "suspendResume": "Suspend/Resume user",
-      "walletModification": "Wallet modification",
-      "primaryAccount": "Primary detail modification"
-    }
-  },
-  "userMessage": {
-    "modifySuccess": "Modification successful",
-    "confirm": "CONFIRM",
-    "cancel": "Do you really want to cancel the modification?",
-    "noChange": "You have not modified any values."
-  },
-  "wallet": {
-    "topComponent": {
-      "initiatedBy": " Initiated By",
-      "initiatedOn": "Initiated On",
-      "modifiedBy": "Modified By",
-      "modifiedOn": "Modified On"
+    "modifyWallet": {
+        "tabs": {
+            "all": "الجميع",
+            "approved": "وافق",
+            "rejected": "مرفوض"
+        },
+        "sectionHeader": "محافظ"
     },
-    "table": {
-      "headers": {
-        "mfsProvider": "MFS PROVIDER",
-        "walletType": "WALLET TYPES",
-        "grade": "GRADE",
-        "prevStatus": "PREVIOUS STATUS",
-        "currentStatus": "CURRENT STATUS",
-        "balance": "BALANCE",
-        "primaryWallet": "PRIMARY WALLET",
-        "actions": "ACTIONS"
-      },
-      "status": {
-        "active": "Active",
-        "suspended": "Suspended",
-        "suspendInitiate": "Suspend Initiated",
-        "deleteInitiate": "Delete Initiated",
-        "resumeInitiate": "Resume Initiated",
-        "inactive": "Inactive",
-        "yes": "Yes",
-        "no": "No"
-      }
+    "icons": {
+        "view": "عرض الكل",
+        "suspend": "تعليق المستخدم",
+        "resume": "استئناف المستخدم",
+        "wallet": "تعديل حالة المحفظة",
+        "primaryAcc": "تعديل الحساب الأساسي",
+        "susWallet": "تعليق محفظة",
+        "resWallet": "استئناف المحفظة",
+        "delWallet": "حذف محفظة"
     },
-    "breadCrumb": {
-      "modify": "Modify",
-      "walletDetails": "Wallet Details and Status",
-      "walletApproval": "Wallet Status Approval",
-      "actions": "Actions",
-      "recentActivity": "Wallet Recent Activity"
+    "primaryAccNum": {
+        "modify": "تعديل",
+        "modifyPrDetails": "تعديل التفاصيل الأولية",
+        "mobileNo": "رقم الموبايل.",
+        "name": "اسم",
+        "kycIdType": "نوع معرف KYC",
+        "kycNumber": "رقم KYC",
+        "accNo": "رقم الحساب:",
+        "editPrAccMobNo": "تحرير الحساب الأساسي/رقم الهاتف المحمول",
+        "currMobNo": "رقم الهاتف المحمول الحالي:",
+        "newMobNo": "جديد الهاتف المحمول.",
+        "modifyFail": "فشل بدء التعديل",
+        "modifySuccess": "بدأ الطلب للموافقة عليه",
+        "save": "يحفظ",
+        "kycModifyHeader": "تفاصيل KYC (الابتدائية)",
+        "issuedPlace": "مكان إصدار",
+        "issuedCountry": "أصدر البلد",
+        "issuedDate": "تاريخ إصدار",
+        "validity": "صلاحية",
+        "editKycHeader": "تحرير KYC الابتدائية",
+        "reqKycIdType": "نوع معرف KYC مطلوب",
+        "reqKycIdValue": "قيمة معرف KYC مطلوبة",
+        "invalidKycIdValue": "قيمة معرف KYC غير صالحة",
+        "expiryDate": "تاريخ انتهاء الصلاحية",
+        "uploadImage": "تحميل",
+        "kycIdValue": "قيمة معرف KYC"
     },
-    "sectionHeader": "Wallets",
     "button": {
-      "approve": "APPROVE",
-      "reject": "REJECT",
-      "withdraw": "WITHDRAW",
-      "cancel": "CANCEL"
+        "save": "حفظ التغييرات",
+        "previous": "سابق",
+        "kycDetail": "تفاصيل KYC",
+        "accountDetail": "تفاصيل الحساب"
+    },
+    "recentActivity": {
+        "tabs": {
+            "modifications": "التعديلات",
+            "linking": "الربط",
+            "accountModification": "تعديل الحساب",
+            "suspendResume": "تعليق/استئناف المستخدم",
+            "walletModification": "تعديل المحفظة",
+            "primaryAccount": "تعديل التفاصيل الأولية"
+        }
+    },
+    "userMessage": {
+        "modifySuccess": "تعديل ناجح",
+        "confirm": "تؤكد",
+        "cancel": "هل تريد حقًا إلغاء التعديل؟",
+        "noChange": "لم تقم بتعديل أي قيم."
+    },
+    "wallet": {
+        "topComponent": {
+            "initiatedBy": "بدأها",
+            "initiatedOn": "بدأت في",
+            "modifiedBy": "تعديل بواسطة",
+            "modifiedOn": "تعديل على"
+        },
+        "table": {
+            "headers": {
+                "mfsProvider": "مزود MFS",
+                "walletType": "أنواع المحفظة",
+                "grade": "المرتبة",
+                "prevStatus": "الوضع السابق",
+                "currentStatus": "الحالة الحالية",
+                "balance": "الرصيد",
+                "primaryWallet": "محفظة أولية",
+                "actions": "أجراءات"
+            },
+            "status": {
+                "active": "نشيط",
+                "suspended": "موقوف عن العمل",
+                "suspendInitiate": "بدأ تعليق",
+                "deleteInitiate": "بدأ حذف",
+                "resumeInitiate": "بدأت السيرة الذاتية",
+                "inactive": "غير نشط",
+                "yes": "نعم",
+                "no": "رقم"
+            }
+        },
+        "breadCrumb": {
+            "modify": "تعديل",
+            "walletDetails": "تفاصيل المحفظة والحالة",
+            "walletApproval": "موافقة حالة المحفظة",
+            "actions": "أجراءات",
+            "recentActivity": "محفظة النشاط الحديث"
+        },
+        "sectionHeader": "محافظ",
+        "button": {
+            "approve": "يوافق",
+            "reject": "رفض",
+            "withdraw": "ينسحب",
+            "cancel": "إلغاء"
+        }
+    },
+    "view": {
+        "modify": "تعديل",
+        "accountDetails": "عرض تفاصيل ACCOUT",
+        "accountIdType": "نوع معرف الحساب",
+        "accountIdValue": "قيمة معرف الحساب",
+        "kycPrimary": "تفاصيل KYC (الابتدائية)",
+        "kycDetails": "تفاصيل KYC"
+    },
+    "dialog": {
+        "title": "هل أنت واثق؟",
+        "approveText": "الموافقة على التعديل",
+        "rejectText": "رفض التعديل"
     }
-  },
-  "view": {
-    "modify": "Modify",
-    "accountDetails": "View Accout Details",
-    "accountIdType": "ACCOUNT ID TYPE",
-    "accountIdValue": "ACCOUNT ID VALUE",
-    "kycPrimary": "KYC DETAILS (PRIMARY)",
-    "kycDetails": "KYC DETAILS"
-  },
-  "dialog": {
-    "title": "Are you sure?",
-    "approveText": "Approve Modification",
-    "rejectText": "Reject modification"
-  }
 }

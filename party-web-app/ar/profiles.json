@@ -1,51 +1,51 @@
 {
-  "regulatory": {
-    "heading": {
-      "search": "Regulatory Profiles",
-      "add": "Add Regulatory Profile",
-      "modify": "Modify Regulatory Profile"
-    }
-  },
-  "common": {
-    "form": {
-      "profileCode": "Profile Code",
-      "profileName": "Profile Name"
+    "regulatory": {
+        "heading": {
+            "search": "ملفات تعريف تنظيمية",
+            "add": "أضف الملف الشخصي التنظيمي",
+            "modify": "تعديل الملف التنظيمي"
+        }
     },
-    "table": {
-      "button": {
-        "add": "Add",
-        "addNewRecord": "Add New Record",
-        "save": "Save",
-        "edit": "Modify Regulatory Profile"
-      },
-      "header": {
-        "actions": "Actions",
-        "profileCode": "Profile Code",
-        "profileName": "Profile Name",
-        "domain": "Domain",
-        "category": "Category"
-      }
-    }
-  },
-  "marketing": {
-    "heading": {
-      "search": "Marketing Profile",
-      "add": "Marketing Profile",
-      "modify": "Modify Marketing Profile"
+    "common": {
+        "form": {
+            "profileCode": "رمز الملف الشخصي",
+            "profileName": "اسم الشخصية"
+        },
+        "table": {
+            "button": {
+                "add": "يضيف",
+                "addNewRecord": "أضف سجلًا جديدًا",
+                "save": "يحفظ",
+                "edit": "تعديل الملف التنظيمي"
+            },
+            "header": {
+                "actions": "أجراءات",
+                "profileCode": "رمز الملف الشخصي",
+                "profileName": "اسم الشخصية",
+                "domain": "اِختِصاص",
+                "category": "فئة"
+            }
+        }
     },
-    "button": {
-      "add": "Add Marketing Profile",
-      "edit": "Edit Marketing Profile"
-    },
-    "form": {
-      "domainName": "Domain Name",
-      "categoryName": "Category Name",
-      "webGroupRole": "Web Group Role",
-      "mfsProvider": "MFS Provider",
-      "walletType": "Wallet Type",
-      "grade": "Grade",
-      "mobileGroupRole": "Mobile Group Role",
-      "instrumentTcpProfile": "Instrument TCP Profile"
+    "marketing": {
+        "heading": {
+            "search": "ملف التسويق",
+            "add": "ملف التسويق",
+            "modify": "تعديل ملف تعريف التسويق"
+        },
+        "button": {
+            "add": "إضافة ملف تعريف التسويق",
+            "edit": "تحرير ملف تعريف التسويق"
+        },
+        "form": {
+            "domainName": "اسم النطاق",
+            "categoryName": "اسم التصنيف",
+            "webGroupRole": "دور مجموعة الويب",
+            "mfsProvider": "مزود MFS",
+            "walletType": "نوع المحفظة",
+            "grade": "صف دراسي",
+            "mobileGroupRole": "دور المجموعة المتنقلة",
+            "instrumentTcpProfile": "أداة TCP أداة"
+        }
     }
-  }
 }

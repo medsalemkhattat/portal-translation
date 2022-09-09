@@ -1,39 +1,39 @@
 {
-	"text" : {
-		"bankMaster": "Bank Master",
-		"moreDetails": "More Details"
-	},
-	"column": {
-		"priority": "PRIORITY",
-		"bankName": "BANK NAME",
-		"bankType": "BANK TYPE",
-		"currency": "CURRENCY",
-		"accountNumber": "ACCOUNT NUMBER",
-		"bankUniqueId": "BANK UNIQUE ID",
-		"createdOn": "CREATED ON",
-		"action": "ACTION",
-		"accountType": "Account Type",
-		"overdraftlimit": "Overdraft Limit",
-		"cbsType": "CBS Type"
-	},
-	"footer": {
-		"show": "Show:",
-		"goToPage": "Go to Page:"
-	},
-	"error": {
-		"noRecFound" : "No Records found ",
-		"close": "Close"	
-	},
-	"catch": {
-		"cudNotConnect": "Could Not connect to the server"
-	},
-	"messages" : {
-		"noDataFound": "No data present",
-		"serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
-		"internalServerError": "Internal Server Error!",
-		"unauthorized": "Sorry, you are not authorized to access the webpage. Try to login again. If the problem persists, contact administrator for further information."
-	},
-	"confirmation": {
-		"ContactSysAdmin": "Oh No! Something went wrong. Please contact System Administrator."
-	}
+  "text": {
+    "bankMaster": "Maître de banque",
+    "moreDetails": "Plus de détails"
+  },
+  "column": {
+    "priority": "PRIORITÉ",
+    "bankName": "NOM DE BANQUE",
+    "bankType": "Type de banque",
+    "currency": "DEVISE",
+    "accountNumber": "NUMÉRO DE COMPTE",
+    "bankUniqueId": "Banque ID unique",
+    "createdOn": "CRÉÉ SUR",
+    "action": "ACTION",
+    "accountType": "Type de compte",
+    "overdraftlimit": "Limite de découvert",
+    "cbsType": "Type CBS"
+  },
+  "footer": {
+    "show": "Spectacle:",
+    "goToPage": "Aller à la page:"
+  },
+  "error": {
+    "noRecFound": "Aucun enregistrement trouvé",
+    "close": "proche"
+  },
+  "catch": {
+    "cudNotConnect": "Ne peut se connecter au serveur"
+  },
+  "messages": {
+    "noDataFound": "Aucune donnée présente",
+    "serviceUnavailable": "Service indisponible. Veuillez essayer après un certain temps!",
+    "internalServerError": "Erreur interne du serveur!",
+    "unauthorized": "Désolé, vous n'êtes pas autorisé à accéder à la page Web. Essayez de vous connecter à nouveau. Si le problème persiste, contactez l'administrateur pour plus d'informations."
+  },
+  "confirmation": {
+    "ContactSysAdmin": "Oh non! Quelque chose s'est mal passé. Veuillez contacter l'administrateur du système."
+  }
 }

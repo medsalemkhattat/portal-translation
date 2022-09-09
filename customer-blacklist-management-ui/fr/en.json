@@ -1,175 +1,175 @@
 {
-	"blacklistManagement": {
-		"blacklistManagement": "Blacklist Management",
-		"viewActiveList": "View Active List",
-		"blacklistInformation": "Blacklist Information",
-		"recordStatus": "Record Status",
-		"currentBlacklist": "Current Blacklist",
-		"tracking": "Tracking",
-		"currentBlacklistUsers": "Current Blacklist Users",
-		"appendCurrentList": "Append Current List",
-		"uploadCurrentList": "Upload Fresh List",
-		"uploadHistory": "Upload History",
-		"uploadHistoryAppearHere": "Your upload history will appear here."
-	},
-	"blacklistDetails": {
-		"bulk id": "Bulk ID",
-		"created on": "Created On",
-		"uploaded by": "Uploaded By",
-		"activity type": "Activity Type",
-		"remarks": "Description",
-		"status": "Status",
-		"totalNumberOfRecords": "Total number of records",
-		"uploadedSuccessfully": "Uploaded Successfully",
-		"failed": "Failed",
-		"pending": "Pending",
-		"recordFound": "Record Found",
-		"recordRetrievalFailed": "Record Retrieval Failed",
-		"service": "Service",
-		"total records": "Total Records",
-		"categoryCode": "Category Code",
-		"workspaceId": "Workspace Id",
-		"serviceCode": "Service Code",
-		"ValueIsCopiedToClipboard": "Value copied to clipboard",
-		"date": "Created On"
-	},
-	"snackBar": {
-		"trackingStatusError": "Unable to fetch Tracking Data",
-		"close": "Close",
-		"forgetMsg": "This will delete the application from the system. Are you sure you want to forget?",
-		"withdrawMsg": "Are you sure you want to withdraw the application? (Note : The application will be saved and can be resubmitted/resumed from My users)",
-		"rejectMsg": "**REJECT_MESSAGE_APPEARS_HERE**",
-		"addOnly": "You can add only ",
-		"more": "more",
-		"maxOf": "Maximum of ",
-		"filesAllowed": " files are allowed",
-		"uploadFailed": " upload failed. ",
-		"uploadFileMaxSizeExceedError": "The maximum allowed size for document upload exceeded, please upload a file of valid size",
-		"uploadError": "There was some error while uploading. Upload the files again",
-		"recordStatusError": "**RECORD_STATUS_ERROR_MESSAGE_APPEARS_HERE**"
-	},
-	"trackingData": {
-		"uploaded": "Uploaded",
-		"on": "on",
-		"appendeedOn": "Appended on",
-		"initiatedBy": "Initiated by",
-		"rejectedBy": "rejected by",
-		"approvedBy": "approved by",
-		"submittedBy": "Submitted By",
-		"level": "Level",
-		"comments": "Comments",
-		"processCompletedOn": "Process completed on "
-	},
-	"buttonsLabels": {
-		"closebtn": "CLOSE",
-		"goToPage": "Go to page:",
-		"filters": "Filters",
-		"approve": "APPROVE",
-		"cancel": "CANCEL",
-		"next": "NEXT",
-		"proceed": "PROCEED",
-		"cancelUpload": "cancel upload",
-		"confirm": "CONFIRM",
-		"yes": "Yes",
-		"no": "No",
-		"done": "DONE",
-		"error": "ERROR",
-		"success": "SUCCESS",
-		"searchUser": "Search User"
-	},
-	"steppers": {
-		"downloadTemplate": "Download Template",
-		"sampleDownloadTemplate": "Download Sample File",
-		"uploadFile": "Upload File",
-		"referenceData": "Reference Data",
-		"allowedFormat": "Allowed Format",
-		"allowedValues": "Allowed Values",
-		"selectCopy": "select & copy",
-		"viewList": "View List",
-		"batchUpload": "Batch Upload",
-		"descriptionOptional": "Description (Optional)",
-		"bulkDescripton": "Enter Description",
-		"confirmation": "Confirmation"
-	},
-	"fileUpload": {
-		"dragAndDrop": "Drag & drop file here",
-		"clickToBrowse": "or click here to browse",
-		"fileFormat": "Accepted File Formats",
-		"maxOf": "Maximum of ",
-		"filesAllowed": "files are allowed",
-		"maxSize": "Max Size: ",
-		"size": "Size: "
-	},
-	"pageNotFound": {
-		"error404": "404 We are searching for your page...",
-		"errorNotFound": "... But we can not find it."
-	},
-	"messages": {
-		"noDataFound": "No data present",
-		"internalServerError": "Internal Server Error!",
-		"serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
-		"allowedFormatNote": "Please Note: It is mandatory to provide either First name, Last name, Date of birth or KYC ID type, KYC ID value."
-	},
-	"recordStatus": {
-		"timeRemaining": "Time Remaining",
-		"uploading": "Uploading",
-		"complete": "Completed",
-		"recordStatus": "Record Status",
-		"downloadSummary": "Download Summary",
-		"modifiedRecordStatus": "Modified Record Status",
-		"resume": "View Progress"
-	},
-	"text": {
-		"optional": "(Optional)",
-		"viewDetails": "View Details",
-		"viewAllDetails": "View all details"
-	},
-	"registration": {
-		"confirmation": {
-			"ContactSysAdmin": "Oh No! Something went wrong. Please contact System Administrator."
-		}
-	},
-	"modal": {
-		"cancelModalHeaderMessage": "Cancel Upload",
-		"cancelModalMessage": "Are you sure, want to cancel the current upload"
-	},
-	"filter": {
-		"dateRange": "Date Range",
-		"startDate": "Start Date",
-		"endDate": "End Date",
-		"clear": "CLEAR",
-		"apply": "APPLY"
-	},
-	"search": {
-		"searchUserfromCurrentBlacklist": "Search user From Current Black List",
-		"searchResultAppearHere": "Your Search result will appear here",
-		"searchDataWillAppear": "Here data will appear",
-		"searchUserBy": "Search User by mobile number, name, KYC value",
-		"searchByBulkId": "Search by bulk ID"
-	},
-	"bulkUser": {
-		"multipleUserDetails": "Multiple User Details",
-		"multipleUserInfo": "Multiple User Information",
-		"recordStatus": "Record Status",
-		"uploaded": "Uploaded",
-		"totalRecords": "Total Number of records",
-		"totalNumberOfRecords": "Total Number of records",
-		"uploadedSuccessfully": "Uploaded Successfully",
-		"processCompletedOn": "Process completed on ",
-		"uploadFailed": "Upload Failed",
-		"uplaodPending": "Pending",
-		"processed": "Processed",
-		"pending": "Pending",
-		"tracking": "Tracking",
-		"processingFile": "Processing your file",
-		"completed": "Completed",
-		"successful": "Successful",
-		"failed": "Failed",
-		"bulkId": "Bulk ID",
-		"service": "Service",
-		"totalRecord": "Total Records",
-		"status": "Status",
-		"createdOn": "Created On",
-		"description": "Description"
-	}
+    "blacklistManagement": {
+        "blacklistManagement": "Gestion de liste noire",
+        "viewActiveList": "Afficher la liste active",
+        "blacklistInformation": "Informations sur liste noire",
+        "recordStatus": "Statut d'enregistrement",
+        "currentBlacklist": "Liste noire actuelle",
+        "tracking": "Suivie",
+        "currentBlacklistUsers": "Utilisateurs actuels de liste noire",
+        "appendCurrentList": "Ajouter la liste actuelle",
+        "uploadCurrentList": "Télécharger une nouvelle liste",
+        "uploadHistory": "Télécharger l'historique",
+        "uploadHistoryAppearHere": "Votre historique de téléchargement apparaîtra ici."
+    },
+    "blacklistDetails": {
+        "bulk id": "Identifiant en vrac",
+        "created on": "Créé sur",
+        "uploaded by": "Telechargé par",
+        "activity type": "Type d'activité",
+        "remarks": "La description",
+        "status": "Statut",
+        "totalNumberOfRecords": "Nombre total d'enregistrements",
+        "uploadedSuccessfully": "Téléchargé avec succès",
+        "failed": "Manquée",
+        "pending": "En attente",
+        "recordFound": "Dossier trouvé",
+        "recordRetrievalFailed": "La récupération des enregistrements a échoué",
+        "service": "Service",
+        "total records": "Registres totaux",
+        "categoryCode": "Code de catégorie",
+        "workspaceId": "ID d'espace de travail",
+        "serviceCode": "Code de service",
+        "ValueIsCopiedToClipboard": "Valeur copiée dans le presse-papiers",
+        "date": "Créé sur"
+    },
+    "snackBar": {
+        "trackingStatusError": "Impossible de récupérer les données de suivi",
+        "close": "proche",
+        "forgetMsg": "Cela supprimera l'application du système. Êtes-vous sûr de vouloir oublier?",
+        "withdrawMsg": "Êtes-vous sûr de vouloir retirer la demande? (Remarque: l'application sera enregistrée et peut être soumise à soumettre / reprendre de mes utilisateurs)",
+        "rejectMsg": "** reject_message_appars_here **",
+        "addOnly": "Vous pouvez ajouter uniquement",
+        "more": "Suite",
+        "maxOf": "Maximum",
+        "filesAllowed": "Les fichiers sont autorisés",
+        "uploadFailed": "le téléchargement a échoué.",
+        "uploadFileMaxSizeExceedError": "La taille maximale autorisée pour le téléchargement de document dépassée, veuillez télécharger un fichier de taille valide",
+        "uploadError": "Il y a eu une erreur lors du téléchargement. Téléchargez à nouveau les fichiers",
+        "recordStatusError": "** Record_Status_error_Message_Appears_here **"
+    },
+    "trackingData": {
+        "uploaded": "Téléchargé",
+        "on": "sur",
+        "appendeedOn": "Annexé sur",
+        "initiatedBy": "Initié par",
+        "rejectedBy": "rejeté par",
+        "approvedBy": "approuvé par",
+        "submittedBy": "Proposé par",
+        "level": "Niveau",
+        "comments": "commentaires",
+        "processCompletedOn": "Processus terminé sur"
+    },
+    "buttonsLabels": {
+        "closebtn": "PROCHE",
+        "goToPage": "Aller à la page:",
+        "filters": "Filtres",
+        "approve": "APPROUVER",
+        "cancel": "ANNULER",
+        "next": "SUIVANTE",
+        "proceed": "PROCÉDER",
+        "cancelUpload": "Annuler le téléchargement",
+        "confirm": "CONFIRMER",
+        "yes": "Oui",
+        "no": "Non",
+        "done": "FINIE",
+        "error": "ERREUR",
+        "success": "SUCCÈS",
+        "searchUser": "Rechercher un utilisateur"
+    },
+    "steppers": {
+        "downloadTemplate": "Télécharger le modèle",
+        "sampleDownloadTemplate": "Télécharger un exemple de fichier",
+        "uploadFile": "Téléverser un fichier",
+        "referenceData": "Donnée de référence",
+        "allowedFormat": "Format autorisé",
+        "allowedValues": "Valeurs autorisées",
+        "selectCopy": "Sélectionnez et copiez",
+        "viewList": "Afficher la liste",
+        "batchUpload": "Téléchargement par lots",
+        "descriptionOptional": "Description (facultatif)",
+        "bulkDescripton": "Entrez description",
+        "confirmation": "Confirmation"
+    },
+    "fileUpload": {
+        "dragAndDrop": "Fichier glisser et déposer ici",
+        "clickToBrowse": "ou cliquez ici pour parcourir",
+        "fileFormat": "Formats de fichiers acceptés",
+        "maxOf": "Maximum",
+        "filesAllowed": "Les fichiers sont autorisés",
+        "maxSize": "Taille max:",
+        "size": "Taille:"
+    },
+    "pageNotFound": {
+        "error404": "404 Nous recherchons votre page ...",
+        "errorNotFound": "... mais nous ne pouvons pas le trouver."
+    },
+    "messages": {
+        "noDataFound": "Aucune donnée présente",
+        "internalServerError": "Erreur interne du serveur!",
+        "serviceUnavailable": "Service indisponible. Veuillez essayer après un certain temps!",
+        "allowedFormatNote": "Veuillez noter: il est obligatoire de fournir un prénom, un nom de famille, une date de naissance ou un type d'identification KYC, une valeur d'identification KYC."
+    },
+    "recordStatus": {
+        "timeRemaining": "Temps restant",
+        "uploading": "Téléchargement",
+        "complete": "Complété",
+        "recordStatus": "Statut d'enregistrement",
+        "downloadSummary": "Résumé de téléchargement",
+        "modifiedRecordStatus": "Statut d'enregistrement modifié",
+        "resume": "Voir les progrès"
+    },
+    "text": {
+        "optional": "(Optionnelle)",
+        "viewDetails": "Voir les détails",
+        "viewAllDetails": "Afficher tous les détails"
+    },
+    "registration": {
+        "confirmation": {
+            "ContactSysAdmin": "Oh non! Quelque chose s'est mal passé. Veuillez contacter l'administrateur du système."
+        }
+    },
+    "modal": {
+        "cancelModalHeaderMessage": "Annuler le téléchargement",
+        "cancelModalMessage": "Êtes-vous sûr, souhaitez annuler le téléchargement actuel"
+    },
+    "filter": {
+        "dateRange": "Plage de dates",
+        "startDate": "Date de début",
+        "endDate": "Date de fin",
+        "clear": "DÉGAGER",
+        "apply": "APPLIQUER"
+    },
+    "search": {
+        "searchUserfromCurrentBlacklist": "Recherchez l'utilisateur à partir de la liste noire actuelle",
+        "searchResultAppearHere": "Votre résultat de recherche apparaîtra ici",
+        "searchDataWillAppear": "Ici, les données apparaîtront",
+        "searchUserBy": "Rechercher l'utilisateur par numéro de mobile, nom, valeur kyc",
+        "searchByBulkId": "Recherche par identifiant en vrac"
+    },
+    "bulkUser": {
+        "multipleUserDetails": "Détails de l'utilisateur multiples",
+        "multipleUserInfo": "Informations utilisateur multiples",
+        "recordStatus": "Statut d'enregistrement",
+        "uploaded": "Téléchargé",
+        "totalRecords": "Nombre total d'enregistrements",
+        "totalNumberOfRecords": "Nombre total d'enregistrements",
+        "uploadedSuccessfully": "Téléchargé avec succès",
+        "processCompletedOn": "Processus terminé sur",
+        "uploadFailed": "Le téléchargement a échoué",
+        "uplaodPending": "En attente",
+        "processed": "Traité",
+        "pending": "En attente",
+        "tracking": "Suivie",
+        "processingFile": "Traitement de votre fichier",
+        "completed": "Complété",
+        "successful": "Couronné de succès",
+        "failed": "Manquée",
+        "bulkId": "Identifiant en vrac",
+        "service": "Service",
+        "totalRecord": "Registres totaux",
+        "status": "Statut",
+        "createdOn": "Créé sur",
+        "description": "La description"
+    }
 }

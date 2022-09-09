@@ -1,43 +1,43 @@
 {
-  "unblock": {
-    "headers": {
-      "accessIdentifier": "Access Identifier",
-      "accessIdentifierValue": "Access Identifier Value",
-      "customerName": "Customer Name",
-      "kycIdType": "KYC ID Type",
-      "kycNumber": "KYC Number",
-      "blockingDate": "Blocking Date",
-      "actions": "Actions",
-      "mobileNumber": "Mobile No."
-    },
-    "search": {
-      "toDate": "To date",
-      "fromDate": "From Date",
-      "accessIdentifierType": "Access Identifier Type",
-      "accessIdentifierValue": "Access Identifier Value",
-      "mobileNumber": "Mobile Number",
-      "emailId": "Email Id",
-      "loginId": "Login Id",
-      "otherId": "Other Id",
-      "none": "None"
-    },
-    "button": {
-      "unblockButton": "Unblock"
-    },
-    "sectionHeader": "Blocked users",
-    "dialogTitle": "Unblock User",
-    "helperText": {
-      "mobileNumberIncorrect": "Please Enter a Number",
-      "emailIncorrect": "Please Enter a valid Email id",
-      "required": "Required"
-    },
-    "radio": {
-      "accessIdentifier": "Access Identifier",
-      "dateRange": "Date Range"
-    },
-    "breadCrumbs": {
-      "unblock": "Unblock User",
-      "viewDetails": "View Account Details"
+    "unblock": {
+        "headers": {
+            "accessIdentifier": "Identifiant d'accès",
+            "accessIdentifierValue": "Valeur d'identifiant d'accès",
+            "customerName": "Nom du client",
+            "kycIdType": "Type d'identification KYC",
+            "kycNumber": "Numéro KYC",
+            "blockingDate": "Date de blocage",
+            "actions": "Actions",
+            "mobileNumber": "Mobile No."
+        },
+        "search": {
+            "toDate": "À ce jour",
+            "fromDate": "Partir de la date",
+            "accessIdentifierType": "Type d'identifiant d'accès",
+            "accessIdentifierValue": "Valeur d'identifiant d'accès",
+            "mobileNumber": "Numéro de portable",
+            "emailId": "ID de messagerie",
+            "loginId": "Identifiant de connexion",
+            "otherId": "Autre pièce d'identité",
+            "none": "Aucune"
+        },
+        "button": {
+            "unblockButton": "Débloquer"
+        },
+        "sectionHeader": "Utilisateurs bloqués",
+        "dialogTitle": "Débloquer l'utilisateur",
+        "helperText": {
+            "mobileNumberIncorrect": "Veuillez saisir un numéro",
+            "emailIncorrect": "Veuillez saisir un identifiant de messagerie valide",
+            "required": "Obligatoire"
+        },
+        "radio": {
+            "accessIdentifier": "Identifiant d'accès",
+            "dateRange": "Plage de dates"
+        },
+        "breadCrumbs": {
+            "unblock": "Débloquer l'utilisateur",
+            "viewDetails": "Afficher les détails du compte"
+        }
     }
-  }
 }

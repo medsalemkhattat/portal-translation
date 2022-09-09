@@ -1,43 +1,43 @@
 {
-  "unblock": {
-    "headers": {
-      "accessIdentifier": "Access Identifier",
-      "accessIdentifierValue": "Access Identifier Value",
-      "customerName": "Customer Name",
-      "kycIdType": "KYC ID Type",
-      "kycNumber": "KYC Number",
-      "blockingDate": "Blocking Date",
-      "actions": "Actions",
-      "mobileNumber": "Mobile No."
-    },
-    "search": {
-      "toDate": "To date",
-      "fromDate": "From Date",
-      "accessIdentifierType": "Access Identifier Type",
-      "accessIdentifierValue": "Access Identifier Value",
-      "mobileNumber": "Mobile Number",
-      "emailId": "Email Id",
-      "loginId": "Login Id",
-      "otherId": "Other Id",
-      "none": "None"
-    },
-    "button": {
-      "unblockButton": "Unblock"
-    },
-    "sectionHeader": "Blocked users",
-    "dialogTitle": "Unblock User",
-    "helperText": {
-      "mobileNumberIncorrect": "Please Enter a Number",
-      "emailIncorrect": "Please Enter a valid Email id",
-      "required": "Required"
-    },
-    "radio": {
-      "accessIdentifier": "Access Identifier",
-      "dateRange": "Date Range"
-    },
-    "breadCrumbs": {
-      "unblock": "Unblock User",
-      "viewDetails": "View Account Details"
+    "unblock": {
+        "headers": {
+            "accessIdentifier": "معرف الوصول",
+            "accessIdentifierValue": "قيمة معرف الوصول",
+            "customerName": "اسم الزبون",
+            "kycIdType": "نوع معرف KYC",
+            "kycNumber": "رقم KYC",
+            "blockingDate": "موعد الحظر",
+            "actions": "أجراءات",
+            "mobileNumber": "رقم الموبايل."
+        },
+        "search": {
+            "toDate": "حتي اليوم",
+            "fromDate": "من التاريخ",
+            "accessIdentifierType": "نوع معرف الوصول",
+            "accessIdentifierValue": "قيمة معرف الوصول",
+            "mobileNumber": "رقم الهاتف المحمول",
+            "emailId": "عنوان الايميل",
+            "loginId": "اسمك",
+            "otherId": "معرف آخر",
+            "none": "لا أحد"
+        },
+        "button": {
+            "unblockButton": "رفع الحظر"
+        },
+        "sectionHeader": "مستخدمين محجوبين",
+        "dialogTitle": "إلغاء حظر عن مستخدم",
+        "helperText": {
+            "mobileNumberIncorrect": "الرجاء إدخال رقم",
+            "emailIncorrect": "الرجاء إدخال معرف بريد إلكتروني صالح",
+            "required": "مطلوب"
+        },
+        "radio": {
+            "accessIdentifier": "معرف الوصول",
+            "dateRange": "نطاق الموعد"
+        },
+        "breadCrumbs": {
+            "unblock": "إلغاء حظر عن مستخدم",
+            "viewDetails": "عرض تفاصيل الحساب"
+        }
     }
-  }
 }

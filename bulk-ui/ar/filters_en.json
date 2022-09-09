@@ -1,5 +1,10 @@
-[
-  {"name": "Approved", "value": "SUCCEEDED"},
- 	{"name": "Failed", "value": "FAILED"},
-  {"name": "Initiated", "value": "INITIATED"}
-]
+[{
+    "name": "وافق",
+    "value": "نجح"
+}, {
+    "name": "باءت بالفشل",
+    "value": "باءت بالفشل"
+}, {
+    "name": "بدأت",
+    "value": "بدأت"
+}]
