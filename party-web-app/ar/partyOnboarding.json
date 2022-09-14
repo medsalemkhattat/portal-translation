@@ -1,129 +1,129 @@
 {
     "title": {
-      "newCustomerRegistration": "Customer Account Registration",
-      "userAccessDetails": "Account Access Information",
-      "kycDetails": "KYC Details",
-      "accounts": "Account Details"
+        "newCustomerRegistration": "تسجيل حساب العميل",
+        "userAccessDetails": "معلومات الوصول إلى الحساب",
+        "kycDetails": "تفاصيل KYC",
+        "accounts": "تفاصيل الحساب"
     },
     "form": {
-      "label": {
-        "mobileNumber": "Mobile Number",
-        "kycIdType": "KYC ID Type",
-        "kycIdValue": "KYC ID Value",
-        "preferredLanguage": "Preferred Language",
-        "personalInformation": {
-          "heading": "Personal Information",
-          "title": "Title",
-          "firstName": "First Name",
-          "middleName": "Middle Name",
-          "lastName": "Last Name",
-          "gender": "Gender",
-          "dob": "Date of Birth",
-          "nationality": "Nationality",
-          "religion": "Religion",
-          "maritalStatus": "Marital Status",
-          "residence": "Country of Residence"
-        },
-        "familyInformation": {
-          "heading": "Family Information",
-          "fatherName": "Father's Name",
-          "motherName": "Mother's name",
-          "spouseFirstname": "Spouse First Name",
-          "spouseLastname": "Spouse Last Name"
-        },
-        "addressDetails": {
-          "heading": "Address Details",
-          "addressLine1": "Address Line 1",
-          "addressLine2": "Address Line 2",
-          "city": "City",
-          "district": "District",
-          "state": "State",
-          "country": "Country",
-          "region": "Region",
-          "postalCode": "Postal Code"
-        },
-        "employmentDetails": {
-          "heading": "Employment Details",
-          "department": "Department",
-          "designation": "Designation",
-          "divison": "Divison",
-          "employerName": "Employer Name",
-          "occupation": "Occupation"
-        },
-        "kinDetails": {
-          "heading": "Kin Details",
-          "kinFirstname": "Kin First Name",
-          "kinLastname": "Kin Last Name",
-          "kinMiddlename": "Kin middle name",
-          "kinAge": "Kin Age",
-          "kinNationality": "Kin Nationality",
-          "kinRelationship": "Kin Relationship",
-          "kinKycId": "Kin KYC ID"
-        },
-        "otherDetails": {
-          "heading": "Other Details",
-          "Attribute1": "Attribute 1",
-          "Attribute2": "Attribute 2",
-          "Attribute3": "Attribute 3",
-          "Attribute4": "Attribute 4",
-          "Attribute5": "Attribute 5",
-          "Attribute6": "Attribute 6",
-          "Attribute7": "Attribute 7",
-          "Attribute8": "Attribute 8",
-          "Attribute9": "Attribute 9",
-          "Attribute10": "Attribute 10"
-        },
-        "kycDetails": {
-          "heading": "KYC Details",
-          "kycDocument": "KYC Document",
-          "details": "Details",
-          "kycIdType": "KYC ID Type",
-          "kycIdValue": "KYC ID Value",
-          "kycIdIssuePlace": "KYC ID Issue Place",
-          "kycIdIssueCountry": "KYC ID Issue Country",
-          "kycIdIssueDate": "KYC ID Issue Date",
-          "kycIdValidFrom": "KYC ID Valid From",
-          "kycIdValidTo": "KYC ID Valid To",
-          "primaryKycId": "Primary KYC ID",
-          "kycImage1": "Upload KYC Image 1",
-          "kycImage2": "Upload KYC Image 2",
-          "showkycImage1": " KYC Image 1",
-          "showkycImage2": "KYC Image 2",
-          "addKyc": "Add Another KYC"
-        },
-        "accountDetails": {
-          "heading": "Account Details",
-          "regulatoryProfile": "Regulatory Profile",
-          "marketingProfile": "Marketing Profile",
-          "accountNumber": "Account Number",
-          "profileName": "Profile name",
-          "profileCode": "Profile code"
+        "label": {
+            "mobileNumber": "رقم الهاتف المحمول",
+            "kycIdType": "نوع معرف KYC",
+            "kycIdValue": "قيمة معرف KYC",
+            "preferredLanguage": "اللغة المفضلة",
+            "personalInformation": {
+                "heading": "معلومات شخصية",
+                "title": "عنوان",
+                "firstName": "الاسم الاول",
+                "middleName": "الاسم الوسطى",
+                "lastName": "الكنية",
+                "gender": "جنس",
+                "dob": "تاريخ الولادة",
+                "nationality": "جنسية",
+                "religion": "دِين",
+                "maritalStatus": "الحالة الحالة الإجتماعية",
+                "residence": "بلد الإقامة"
+            },
+            "familyInformation": {
+                "heading": "معلومات العائلة",
+                "fatherName": "اسم الاب",
+                "motherName": "اسم الأم",
+                "spouseFirstname": "الاسم الأول للزوج",
+                "spouseLastname": "الاسم الأخير للزوج"
+            },
+            "addressDetails": {
+                "heading": "تفاصيل العنوان",
+                "addressLine1": "العنوان الأول",
+                "addressLine2": "سطر العنوان 2",
+                "city": "مدينة",
+                "district": "يصرف",
+                "state": "حالة",
+                "country": "دولة",
+                "region": "منطقة",
+                "postalCode": "رمز بريدي"
+            },
+            "employmentDetails": {
+                "heading": "تفاصيل العمل",
+                "department": "قسم",
+                "designation": "تعيين",
+                "divison": "ديفسون",
+                "employerName": "اسم الموظف",
+                "occupation": "إشغال"
+            },
+            "kinDetails": {
+                "heading": "تفاصيل الأقرباء",
+                "kinFirstname": "Kin الاسم الأول",
+                "kinLastname": "كين اسم العائلة",
+                "kinMiddlename": "الاسم الأوسط الأقرباء",
+                "kinAge": "عصر الأقرباء",
+                "kinNationality": "كين الجنسية",
+                "kinRelationship": "علاقة أقارب",
+                "kinKycId": "Kin KYC ID"
+            },
+            "otherDetails": {
+                "heading": "تفاصيل أخرى",
+                "Attribute1": "السمة 1",
+                "Attribute2": "السمة 2",
+                "Attribute3": "السمة 3",
+                "Attribute4": "السمة 4",
+                "Attribute5": "السمة 5",
+                "Attribute6": "السمة 6",
+                "Attribute7": "السمة 7",
+                "Attribute8": "السمة 8",
+                "Attribute9": "السمة 9",
+                "Attribute10": "السمة 10"
+            },
+            "kycDetails": {
+                "heading": "تفاصيل KYC",
+                "kycDocument": "وثيقة KYC",
+                "details": "تفاصيل",
+                "kycIdType": "نوع معرف KYC",
+                "kycIdValue": "قيمة معرف KYC",
+                "kycIdIssuePlace": "مكان إصدار معرف KYC",
+                "kycIdIssueCountry": "kyc id issue country",
+                "kycIdIssueDate": "تاريخ إصدار معرف KYC",
+                "kycIdValidFrom": "معرف KYC صالح من",
+                "kycIdValidTo": "معرف KYC صالح لـ",
+                "primaryKycId": "معرف KYC الأساسي",
+                "kycImage1": "تحميل صورة KYC 1",
+                "kycImage2": "تحميل صورة KYC 2",
+                "showkycImage1": "صورة KYC 1",
+                "showkycImage2": "صورة KYC 2",
+                "addKyc": "أضف KYC آخر"
+            },
+            "accountDetails": {
+                "heading": "تفاصيل الحساب",
+                "regulatoryProfile": "الملف التنظيمي",
+                "marketingProfile": "ملف التسويق",
+                "accountNumber": "رقم حساب",
+                "profileName": "اسم الشخصية",
+                "profileCode": "رمز الملف الشخصي"
+            }
         }
-      }
     },
     "button": {
-      "cancel": "Cancel",
-      "proceed": "Proceed",
-      "back": "Back",
-      "validate": "Validate",
-      "submit": "Submit"
+        "cancel": "يلغي",
+        "proceed": "يتابع",
+        "back": "خلف",
+        "validate": "التحقق",
+        "submit": "يُقدِّم"
     },
     "stepper": {
-      "customerAccountRegistration": "PRIMARY DETAILS",
-      "accountAccessInfo": "USER DETAILS",
-      "kycDetails": "KYC DETAILS",
-      "accountDetails": "ACCOUNT DETAILS"
+        "customerAccountRegistration": "التفاصيل الأولية",
+        "accountAccessInfo": "بيانات المستخدم",
+        "kycDetails": "تفاصيل KYC",
+        "accountDetails": "تفاصيل الحساب"
     },
     "tabs": {
-      "all": "All",
-      "pending": "Pending",
-      "approved": "Approved",
-      "rejected": "Rejected"
+        "all": "الجميع",
+        "pending": "قيد الانتظار",
+        "approved": "وافق",
+        "rejected": "مرفوض"
     },
     "actionBtn": {
-      "register": "Register a user"
+        "register": "تسجيل المستخدم"
     },
     "sectionHeader": {
-      "custAccounts": "Customer Accounts"
+        "custAccounts": "حسابات العملاء"
     }
-  }
+}

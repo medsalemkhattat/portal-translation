@@ -1,170 +1,170 @@
 {
     "logout": {
-      "header": "Logged out",
-      "message": "Session ended! Please login again."
+        "header": "تسجيل الخروج",
+        "message": "انتهت الجلسة! الرجاد الدخول على الحساب من جديد."
     },
     "general": {
-      "numbers": {
-        "0": "0",
-        "1": "1",
-        "2": "2",
-        "3": "3",
-        "4": "4",
-        "5": "5",
-        "6": "6",
-        "7": "7",
-        "8": "8",
-        "9": "9",
-        "10": "10",
-        "11": "11",
-        "12": "12",
-        "13": "13",
-        "14": "14",
-        "15": "15",
-        "40": "40",
-        "80": "80"
-      }
+        "numbers": {
+            "0": "0",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "10",
+            "11": "11",
+            "12": "12",
+            "13": "13",
+            "14": "14",
+            "15": "15",
+            "40": "40",
+            "80": "80"
+        }
     },
     "drawer": {
-      "CUST_REG": "Registration",
-      "CUST_REG_APPR": "Approvals",
-      "appName": "Party Management",
-      "REGULATORY_PROFILE": "Regulatory Profiles",
-      "MARKETING_PROFILE": "Marketing Profiles",
-      "UNBLOCK_USER": "Unblock User",
-      "MODIFY": "Modify",
-      "RECENT_ACTIVITY": "My Recent Activity",
-      "ERROR_MESSAGE": "Error Messages"
+        "CUST_REG": "تسجيل",
+        "CUST_REG_APPR": "الموافقات",
+        "appName": "إدارة الحزب",
+        "REGULATORY_PROFILE": "ملفات تعريف تنظيمية",
+        "MARKETING_PROFILE": "ملفات تعريف التسويق",
+        "UNBLOCK_USER": "إلغاء حظر عن مستخدم",
+        "MODIFY": "تعديل",
+        "RECENT_ACTIVITY": "احدث الانشطة الخاصة بي",
+        "ERROR_MESSAGE": "رسائل خاطئة"
     },
     "button": {
-      "search": "Search",
-      "reset": "Reset",
-      "add": "Add",
-      "save": "Save",
-      "back": "Back",
-      "close": "Close",
-      "cancel": "Cancel",
-      "edit": "Edit details",
-      "view": "View Details",
-      "reason": "View Remarks",
-      "addWallet": "Add Wallet"
+        "search": "يبحث",
+        "reset": "إعادة ضبط",
+        "add": "يضيف",
+        "save": "يحفظ",
+        "back": "خلف",
+        "close": "قريب",
+        "cancel": "يلغي",
+        "edit": "عدل التفاصيل",
+        "view": "عرض التفاصيل",
+        "reason": "عرض الملاحظات",
+        "addWallet": "أضف محفظة"
     },
     "sectionHeader": {
-      "searchBy": "Search by"
+        "searchBy": "ابحث عن طريق"
     },
     "recordContainer": {
-      "regDate": "Registration date",
-      "initBy": "Initiated by",
-      "tabs": {
-        "userDetails": "USER DETAILS",
-        "kycDetails": "KYC DETAILS",
-        "accountDetails": "ACCOUNT DETAILS",
-        "accessIdentifier": "ACCESS IDENTIFIERS"
-      },
-      "accountNo": "Account No",
-      "approvalStatus": "Approval status",
-      "rejectedOn": "Rejected on",
-      "rejectedBy": "Rejected by",
-      "rejectedReason": "Rejected Reason",
-      "none": "None",
-      "approvedOn": "Approved on",
-      "approvedBy": "Approved by",
-      "accountNoTab": "Account No :",
-      "modifiedOn": "Modified on",
-      "modifiedBy": "Modified by",
-      "panel": {
-        "userPreference": "USER PREFERENCE",
-        "personalInfo": "PERSONAL INFO",
-        "familyInfo": "FAMILY INFO",
-        "employment": "EMPLOYMENT",
-        "kin": "KIN",
-        "other": "OTHER",
-        "addressDetails": "ADDRESS DETAILS",
-        "kycDetails": "KYC DETAILS",
-        "mobileNumber": "MOBILE/ ACCOUNT NUMBER",
-        "kycPrimary": "KYC DETAILS (PRIMARY)",
-        "regulatoryProfile": "REGULATORY PROFILE",
-        "marketingProfile": "MARKETING PROFILE"
-      },
-      "btn": {
-        "approve": "APPROVE"
-      }
+        "regDate": "تاريخ التسجيل",
+        "initBy": "بدأها",
+        "tabs": {
+            "userDetails": "بيانات المستخدم",
+            "kycDetails": "تفاصيل KYC",
+            "accountDetails": "تفاصيل الحساب",
+            "accessIdentifier": "معرفات الوصول"
+        },
+        "accountNo": "حساب لا",
+        "approvalStatus": "حالة القبول",
+        "rejectedOn": "رفض على",
+        "rejectedBy": "مرفوض من طرف",
+        "rejectedReason": "سبب رفض",
+        "none": "لا أحد",
+        "approvedOn": "معتمدة على",
+        "approvedBy": "تمت الموافقة عليه من قبل",
+        "accountNoTab": "رقم الحساب:",
+        "modifiedOn": "تعديل على",
+        "modifiedBy": "تعديل بواسطة",
+        "panel": {
+            "userPreference": "تفضيل المستخدم",
+            "personalInfo": "معلومات شخصية",
+            "familyInfo": "معلومات الأسرة",
+            "employment": "توظيف",
+            "kin": "أقارب",
+            "other": "آخر",
+            "addressDetails": "تفاصيل العنوان",
+            "kycDetails": "تفاصيل KYC",
+            "mobileNumber": "رقم الهاتف/ الحساب",
+            "kycPrimary": "تفاصيل KYC (الابتدائية)",
+            "regulatoryProfile": "الملف التنظيمي",
+            "marketingProfile": "ملف التسويق"
+        },
+        "btn": {
+            "approve": "يوافق"
+        }
     },
     "input": {
-      "mobileNumber": "Mobile Number",
-      "fromDate": "From Date",
-      "toDate": "To Date",
-      "profileCode": "Profile Code",
-      "profileName": "Profile Name",
-      "actions": "Actions",
-      "kycIdType": "KYC ID type",
-      "kycNumber": "KYC Number",
-      "name": "Name"
+        "mobileNumber": "رقم الهاتف المحمول",
+        "fromDate": "من التاريخ",
+        "toDate": "حتي اليوم",
+        "profileCode": "رمز الملف الشخصي",
+        "profileName": "اسم الشخصية",
+        "actions": "أجراءات",
+        "kycIdType": "نوع معرف KYC",
+        "kycNumber": "رقم KYC",
+        "name": "اسم"
     },
     "status": {
-      "approved": "APPROVED",
-      "rejected": "REJECTED",
-      "failed": "FAILED",
-      "pending": "PENDING",
-      "processing": "UNDER PROCESSING"
+        "approved": "وافق",
+        "rejected": "مرفوض",
+        "failed": "باءت بالفشل",
+        "pending": "ريثما",
+        "processing": "تحت التجهيز"
     },
-    "emptyMessage": "No records found",
+    "emptyMessage": "لا توجد سجلات",
     "unblock": {
-      "headers": {
-        "accessIdentifier": "Access Identifier",
-        "accessIdentifierValue": "Access Identifier Value",
-        "customerName": "Customer Name",
-        "kycIdType": "KYC ID Type",
-        "kycNumber": "KYC Number",
-        "blockingDate": "Blocking Date",
-        "actions": "Actions",
-        "mobileNumber": "Mobile No."
-      },
-      "search": {
-        "toDate": "To date",
-        "fromDate": "From Date",
-        "accessIdentifierType": "Access Identifier Type",
-        "accessIdentifierValue": "Access Identifier Value",
-        "mobileNumber": "Mobile Number",
-        "emailId": "Email Id",
-        "loginId": "Login Id",
-        "otherId": "Other Id",
-        "none": "None"
-      },
-      "button": {
-        "unblockButton": "Unblock"
-      },
-      "sectionHeader": "Blocked users"
+        "headers": {
+            "accessIdentifier": "معرف الوصول",
+            "accessIdentifierValue": "قيمة معرف الوصول",
+            "customerName": "اسم الزبون",
+            "kycIdType": "نوع معرف KYC",
+            "kycNumber": "رقم KYC",
+            "blockingDate": "موعد الحظر",
+            "actions": "أجراءات",
+            "mobileNumber": "رقم الموبايل."
+        },
+        "search": {
+            "toDate": "حتي اليوم",
+            "fromDate": "من التاريخ",
+            "accessIdentifierType": "نوع معرف الوصول",
+            "accessIdentifierValue": "قيمة معرف الوصول",
+            "mobileNumber": "رقم الهاتف المحمول",
+            "emailId": "عنوان الايميل",
+            "loginId": "اسمك",
+            "otherId": "معرف آخر",
+            "none": "لا أحد"
+        },
+        "button": {
+            "unblockButton": "رفع الحظر"
+        },
+        "sectionHeader": "مستخدمين محجوبين"
     },
-    "header": "Customer Accounts",
+    "header": "حسابات العملاء",
     "tabs": {
-      "all": "All",
-      "pending": "Pending",
-      "approved": "Approved",
-      "rejected": "Rejected"
+        "all": "الجميع",
+        "pending": "قيد الانتظار",
+        "approved": "وافق",
+        "rejected": "مرفوض"
     },
     "filters": {
-      "mobileNumber": "Mobile/Account Number",
-      "kycId": "KYC ID"
+        "mobileNumber": "رقم الهاتف/الحساب",
+        "kycId": "kyc id"
     },
     "view": {
-      "modify": "Modify",
-      "viewAccDetails": "View Account Details",
-      "primaryKyc": "KYC DETAILS (PRIMARY)",
-      "accountIdType": "ACCOUNT ID TYPE",
-      "accountIdValue": "ACCOUNT ID VALUE",
-      "accountDetails": "Account Details",
-      "myRecentActivity": "My Recent Activity",
-      "accountModification": "Account Modification",
-      "approvals": "Approvals",
-      "regApprovals": "Registration Approvals",
-      "register": "Register",
-      "modifyAccDetails": "Modify Account Details",
-      "accountNo": "Account no",
-      "modificationApproval": "Modification Approval",
-      "primaryModApproval": "Primary Modification Approval",
-      "primaryDetailsMod": "Primary Details Modification"
+        "modify": "تعديل",
+        "viewAccDetails": "عرض تفاصيل الحساب",
+        "primaryKyc": "تفاصيل KYC (الابتدائية)",
+        "accountIdType": "نوع معرف الحساب",
+        "accountIdValue": "قيمة معرف الحساب",
+        "accountDetails": "تفاصيل الحساب",
+        "myRecentActivity": "احدث الانشطة الخاصة بي",
+        "accountModification": "تعديل الحساب",
+        "approvals": "الموافقات",
+        "regApprovals": "موافقات التسجيل",
+        "register": "يسجل",
+        "modifyAccDetails": "تعديل تفاصيل الحساب",
+        "accountNo": "حساب لا",
+        "modificationApproval": "موافقة التعديل",
+        "primaryModApproval": "موافقة التعديل الأولية",
+        "primaryDetailsMod": "تعديل التفاصيل الأولية"
     },
-    "suspended": "Suspended",
-    "active": "Active"
-  }
+    "suspended": "موقوف عن العمل",
+    "active": "نشيط"
+}

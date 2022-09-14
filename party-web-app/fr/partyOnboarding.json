@@ -1,129 +1,129 @@
 {
     "title": {
-      "newCustomerRegistration": "Customer Account Registration",
-      "userAccessDetails": "Account Access Information",
-      "kycDetails": "KYC Details",
-      "accounts": "Account Details"
+        "newCustomerRegistration": "Enregistrement du compte client",
+        "userAccessDetails": "Informations d'accès aux comptes",
+        "kycDetails": "Détails KYC",
+        "accounts": "Détails du compte"
     },
     "form": {
-      "label": {
-        "mobileNumber": "Mobile Number",
-        "kycIdType": "KYC ID Type",
-        "kycIdValue": "KYC ID Value",
-        "preferredLanguage": "Preferred Language",
-        "personalInformation": {
-          "heading": "Personal Information",
-          "title": "Title",
-          "firstName": "First Name",
-          "middleName": "Middle Name",
-          "lastName": "Last Name",
-          "gender": "Gender",
-          "dob": "Date of Birth",
-          "nationality": "Nationality",
-          "religion": "Religion",
-          "maritalStatus": "Marital Status",
-          "residence": "Country of Residence"
-        },
-        "familyInformation": {
-          "heading": "Family Information",
-          "fatherName": "Father's Name",
-          "motherName": "Mother's name",
-          "spouseFirstname": "Spouse First Name",
-          "spouseLastname": "Spouse Last Name"
-        },
-        "addressDetails": {
-          "heading": "Address Details",
-          "addressLine1": "Address Line 1",
-          "addressLine2": "Address Line 2",
-          "city": "City",
-          "district": "District",
-          "state": "State",
-          "country": "Country",
-          "region": "Region",
-          "postalCode": "Postal Code"
-        },
-        "employmentDetails": {
-          "heading": "Employment Details",
-          "department": "Department",
-          "designation": "Designation",
-          "divison": "Divison",
-          "employerName": "Employer Name",
-          "occupation": "Occupation"
-        },
-        "kinDetails": {
-          "heading": "Kin Details",
-          "kinFirstname": "Kin First Name",
-          "kinLastname": "Kin Last Name",
-          "kinMiddlename": "Kin middle name",
-          "kinAge": "Kin Age",
-          "kinNationality": "Kin Nationality",
-          "kinRelationship": "Kin Relationship",
-          "kinKycId": "Kin KYC ID"
-        },
-        "otherDetails": {
-          "heading": "Other Details",
-          "Attribute1": "Attribute 1",
-          "Attribute2": "Attribute 2",
-          "Attribute3": "Attribute 3",
-          "Attribute4": "Attribute 4",
-          "Attribute5": "Attribute 5",
-          "Attribute6": "Attribute 6",
-          "Attribute7": "Attribute 7",
-          "Attribute8": "Attribute 8",
-          "Attribute9": "Attribute 9",
-          "Attribute10": "Attribute 10"
-        },
-        "kycDetails": {
-          "heading": "KYC Details",
-          "kycDocument": "KYC Document",
-          "details": "Details",
-          "kycIdType": "KYC ID Type",
-          "kycIdValue": "KYC ID Value",
-          "kycIdIssuePlace": "KYC ID Issue Place",
-          "kycIdIssueCountry": "KYC ID Issue Country",
-          "kycIdIssueDate": "KYC ID Issue Date",
-          "kycIdValidFrom": "KYC ID Valid From",
-          "kycIdValidTo": "KYC ID Valid To",
-          "primaryKycId": "Primary KYC ID",
-          "kycImage1": "Upload KYC Image 1",
-          "kycImage2": "Upload KYC Image 2",
-          "showkycImage1": " KYC Image 1",
-          "showkycImage2": "KYC Image 2",
-          "addKyc": "Add Another KYC"
-        },
-        "accountDetails": {
-          "heading": "Account Details",
-          "regulatoryProfile": "Regulatory Profile",
-          "marketingProfile": "Marketing Profile",
-          "accountNumber": "Account Number",
-          "profileName": "Profile name",
-          "profileCode": "Profile code"
+        "label": {
+            "mobileNumber": "Numéro de portable",
+            "kycIdType": "Type d'identification KYC",
+            "kycIdValue": "Valeur d'identification KYC",
+            "preferredLanguage": "langue préférée",
+            "personalInformation": {
+                "heading": "Renseignements personnels",
+                "title": "Titre",
+                "firstName": "Prénom",
+                "middleName": "Deuxième nom",
+                "lastName": "Nom de famille",
+                "gender": "Le genre",
+                "dob": "Date de naissance",
+                "nationality": "Nationalité",
+                "religion": "La religion",
+                "maritalStatus": "État civil",
+                "residence": "Pays de résidence"
+            },
+            "familyInformation": {
+                "heading": "Information familiale",
+                "fatherName": "Le nom du père",
+                "motherName": "Le nom de la mère",
+                "spouseFirstname": "Prénom de conjoint",
+                "spouseLastname": "Nom de famille de conjoint"
+            },
+            "addressDetails": {
+                "heading": "Détails de l'adresse",
+                "addressLine1": "Adresse 1",
+                "addressLine2": "Adresse Ligne 2",
+                "city": "Ville",
+                "district": "District",
+                "state": "État",
+                "country": "Pays",
+                "region": "Région",
+                "postalCode": "code postal"
+            },
+            "employmentDetails": {
+                "heading": "Détails emploi",
+                "department": "département",
+                "designation": "La désignation",
+                "divison": "Division",
+                "employerName": "nom de l'employeur",
+                "occupation": "Profession"
+            },
+            "kinDetails": {
+                "heading": "Détails de Kin",
+                "kinFirstname": "Prénom de parent",
+                "kinLastname": "Nom de famille",
+                "kinMiddlename": "Deuxième prénom",
+                "kinAge": "Âge",
+                "kinNationality": "Nationalité des parents",
+                "kinRelationship": "Relation de parent",
+                "kinKycId": "Kin Kyc ID"
+            },
+            "otherDetails": {
+                "heading": "Autres détails",
+                "Attribute1": "Attribut 1",
+                "Attribute2": "Attribut 2",
+                "Attribute3": "Attribut 3",
+                "Attribute4": "Attribut 4",
+                "Attribute5": "Attribut 5",
+                "Attribute6": "Attribut 6",
+                "Attribute7": "Attribut 7",
+                "Attribute8": "Attribut 8",
+                "Attribute9": "Attribut 9",
+                "Attribute10": "Attribut 10"
+            },
+            "kycDetails": {
+                "heading": "Détails KYC",
+                "kycDocument": "Document KYC",
+                "details": "Détails",
+                "kycIdType": "Type d'identification KYC",
+                "kycIdValue": "Valeur d'identification KYC",
+                "kycIdIssuePlace": "KYC ID Place Place",
+                "kycIdIssueCountry": "KYC ID Issue Country",
+                "kycIdIssueDate": "Date d'émission KYC ID",
+                "kycIdValidFrom": "Kyc id valide de",
+                "kycIdValidTo": "Kyc id valide à",
+                "primaryKycId": "ID KYC primaire",
+                "kycImage1": "Télécharger l'image KYC 1",
+                "kycImage2": "Télécharger l'image KYC 2",
+                "showkycImage1": "KYC Image 1",
+                "showkycImage2": "KYC Image 2",
+                "addKyc": "Ajouter un autre KYC"
+            },
+            "accountDetails": {
+                "heading": "Détails du compte",
+                "regulatoryProfile": "Profil de réglementation",
+                "marketingProfile": "Profil marketing",
+                "accountNumber": "Numéro de compte",
+                "profileName": "Nom de profil",
+                "profileCode": "Code de profil"
+            }
         }
-      }
     },
     "button": {
-      "cancel": "Cancel",
-      "proceed": "Proceed",
-      "back": "Back",
-      "validate": "Validate",
-      "submit": "Submit"
+        "cancel": "Annuler",
+        "proceed": "Procéder",
+        "back": "Retour",
+        "validate": "Valider",
+        "submit": "Soumettre"
     },
     "stepper": {
-      "customerAccountRegistration": "PRIMARY DETAILS",
-      "accountAccessInfo": "USER DETAILS",
-      "kycDetails": "KYC DETAILS",
-      "accountDetails": "ACCOUNT DETAILS"
+        "customerAccountRegistration": "Détails primaires",
+        "accountAccessInfo": "Détails de l'utilisateur",
+        "kycDetails": "Détails KYC",
+        "accountDetails": "DÉTAILS DU COMPTE"
     },
     "tabs": {
-      "all": "All",
-      "pending": "Pending",
-      "approved": "Approved",
-      "rejected": "Rejected"
+        "all": "Toute",
+        "pending": "En attente",
+        "approved": "Approuvée",
+        "rejected": "Rejetée"
     },
     "actionBtn": {
-      "register": "Register a user"
+        "register": "Enregistrer un utilisateur"
     },
     "sectionHeader": {
-      "custAccounts": "Customer Accounts"
+        "custAccounts": "Compte client"
     }
-  }
+}

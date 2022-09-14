@@ -1,51 +1,51 @@
 {
     "regulatory": {
-      "heading": {
-        "search": "Regulatory Profiles",
-        "add": "Add Regulatory Profile",
-        "modify": "Modify Regulatory Profile"
-      }
+        "heading": {
+            "search": "Profils réglementaires",
+            "add": "Ajouter un profil réglementaire",
+            "modify": "Modifier le profil réglementaire"
+        }
     },
     "common": {
-      "form": {
-        "profileCode": "Profile Code",
-        "profileName": "Profile Name"
-      },
-      "table": {
-        "button": {
-          "add": "Add",
-          "addNewRecord": "Add New Record",
-          "save": "Save",
-          "edit": "Modify Regulatory Profile"
+        "form": {
+            "profileCode": "Code de profil",
+            "profileName": "Nom de profil"
         },
-        "header": {
-          "actions": "Actions",
-          "profileCode": "Profile Code",
-          "profileName": "Profile Name",
-          "domain": "Domain",
-          "category": "Category"
+        "table": {
+            "button": {
+                "add": "Ajouter",
+                "addNewRecord": "Ajouter un nouveau record",
+                "save": "sauvegarder",
+                "edit": "Modifier le profil réglementaire"
+            },
+            "header": {
+                "actions": "Actions",
+                "profileCode": "Code de profil",
+                "profileName": "Nom de profil",
+                "domain": "Domaine",
+                "category": "Catégorie"
+            }
         }
-      }
     },
     "marketing": {
-      "heading": {
-        "search": "Marketing Profile",
-        "add": "Marketing Profile",
-        "modify": "Modify Marketing Profile"
-      },
-      "button": {
-        "add": "Add Marketing Profile",
-        "edit": "Edit Marketing Profile"
-      },
-      "form": {
-        "domainName": "Domain Name",
-        "categoryName": "Category Name",
-        "webGroupRole": "Web Group Role",
-        "mfsProvider": "MFS Provider",
-        "walletType": "Wallet Type",
-        "grade": "Grade",
-        "mobileGroupRole": "Mobile Group Role",
-        "instrumentTcpProfile": "Instrument TCP Profile"
-      }
+        "heading": {
+            "search": "Profil marketing",
+            "add": "Profil marketing",
+            "modify": "Modifier le profil marketing"
+        },
+        "button": {
+            "add": "Ajouter un profil marketing",
+            "edit": "Modifier le profil marketing"
+        },
+        "form": {
+            "domainName": "Nom de domaine",
+            "categoryName": "Nom de catégorie",
+            "webGroupRole": "Rôle de groupe Web",
+            "mfsProvider": "Fournisseur MFS",
+            "walletType": "Type de portefeuille",
+            "grade": "Noter",
+            "mobileGroupRole": "Rôle de groupe mobile",
+            "instrumentTcpProfile": "Profil de l'instrument TCP"
+        }
     }
-  }
+}
