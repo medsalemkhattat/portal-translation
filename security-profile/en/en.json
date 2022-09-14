@@ -189,7 +189,6 @@
       "withdraw": "WITHDRAW",
       "yes": "Yes",
       "addProfile": "ADD PROFILE"
-     
     },
     "text": {
       "address": "Address",
@@ -227,8 +226,8 @@
       "wholesaler": "Wholesaler",
       "goToPage": "Go to Page",
       "show": "Show",
-      "nextPage":"Next Page",
-      "previousPage":"Previous Page"
+      "nextPage": "Next Page",
+      "previousPage": "Previous Page"
     }
   },
   "fileUpload": {
@@ -385,15 +384,14 @@
     "customFilterType": "User-Defined",
     "saveButton": "Save",
     "addButton": "Add",
-    "viewProfile":"View Profile",
-     "editProfile":"Edit Profile",
-     "copyProfile" :"Copy Profile",
+    "viewProfile": "View Profile",
+    "editProfile": "Edit Profile",
+    "copyProfile": "Copy Profile",
     "createSecurityProfile": {
       "primaryNav": "Security Profile",
       "secondaryNav": "Add Profile",
       "success": "has been added successfully!"
     },
-    
     "editSecurityProfile": {
       "success": "Security profile edited successfully!"
     },
