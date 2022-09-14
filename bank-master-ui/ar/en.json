@@ -1,39 +1,39 @@
 {
-  "text": {
-    "bankMaster": "ماجستير بنك",
-    "moreDetails": "المزيد من التفاصيل"
-  },
-  "column": {
-    "priority": "أولوية",
-    "bankName": "اسم البنك",
-    "bankType": "نوع البنك",
-    "currency": "عملة",
-    "accountNumber": "رقم حساب",
-    "bankUniqueId": "معرف البنك الفريد",
-    "createdOn": "تم إنشاؤها على",
-    "action": "عمل",
-    "accountType": "نوع الحساب",
-    "overdraftlimit": "حدود السحب",
-    "cbsType": "نوع CBS"
-  },
-  "footer": {
-    "show": "يعرض:",
-    "goToPage": "انتقل إلى صفحة:"
-  },
-  "error": {
-    "noRecFound": "لا توجد سجلات",
-    "close": "قريب"
-  },
-  "catch": {
-    "cudNotConnect": "لا يمكن الاتصال بالخادم"
-  },
-  "messages": {
-    "noDataFound": "لا توجد بيانات موجودة",
-    "serviceUnavailable": "الخدمة غير متوفرة. يرجى المحاولة بعد مرور بعض الوقت!",
-    "internalServerError": "خطأ في الخادم الداخلي!",
-    "unauthorized": "آسف ، أنت غير مخول للوصول إلى صفحة الويب. حاول تسجيل الدخول مرة أخرى. إذا استمرت المشكلة ، فاتصل بمسؤول لمزيد من المعلومات."
-  },
-  "confirmation": {
-    "ContactSysAdmin": "أوه لا! هناك خطأ ما. يرجى الاتصال بمسؤول النظام."
-  }
+	"text": {
+		"bankMaster": "Bank Master",
+		"moreDetails": "More Details"
+	},
+	"column": {
+		"priority": "PRIORITY",
+		"bankName": "BANK NAME",
+		"bankType": "BANK TYPE",
+		"currency": "CURRENCY",
+		"accountNumber": "ACCOUNT NUMBER",
+		"bankUniqueId": "BANK UNIQUE ID",
+		"createdOn": "CREATED ON",
+		"action": "ACTION",
+		"accountType": "Account Type",
+		"overdraftlimit": "Overdraft Limit",
+		"cbsType": "CBS Type"
+	},
+	"footer": {
+		"show": "Show:",
+		"goToPage": "Go to Page:"
+	},
+	"error": {
+		"noRecFound": "No Records found ",
+		"close": "Close"
+	},
+	"catch": {
+		"cudNotConnect": "Could Not connect to the server"
+	},
+	"messages": {
+		"noDataFound": "No data present",
+		"serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
+		"internalServerError": "Internal Server Error!",
+		"unauthorized": "Sorry, you are not authorized to access the webpage. Try to login again. If the problem persists, contact administrator for further information."
+	},
+	"confirmation": {
+		"ContactSysAdmin": "Oh No! Something went wrong. Please contact System Administrator."
+	}
 }

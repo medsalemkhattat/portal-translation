@@ -1,5 +1,5 @@
 {
-	"text" : {
+	"text": {
 		"bankMaster": "Bank Master",
 		"moreDetails": "More Details"
 	},
@@ -21,13 +21,13 @@
 		"goToPage": "Go to Page:"
 	},
 	"error": {
-		"noRecFound" : "No Records found ",
-		"close": "Close"	
+		"noRecFound": "No Records found ",
+		"close": "Close"
 	},
 	"catch": {
 		"cudNotConnect": "Could Not connect to the server"
 	},
-	"messages" : {
+	"messages": {
 		"noDataFound": "No data present",
 		"serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
 		"internalServerError": "Internal Server Error!",
