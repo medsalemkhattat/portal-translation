@@ -1,73 +1,73 @@
 {
-    "allSessions": {
-        "deleteAll": "حذف جميع الأجهزة.",
-        "deleteSelected": "حذف جميع الأجهزة المحددة.",
-        "deviceDeleted": "تم حذف الجهاز.",
-        "deviceLogOut": "تم تسجيل الجهاز.",
-        "loggedOutAll": "تسجيل الخروج من جميع الجلسات.",
-        "loggedOutSelected": "تسجيل الخروج من جميع الجلسات المحددة.",
-        "searchResults": "ستظهر نتائج البحث الخاصة بك هنا",
-        "sessionOf": "جلسة"
-    },
-    "button": {
-        "active": "نشيط",
-        "current": "تيار",
-        "apply": "يتقدم",
-        "clear": "صافي",
-        "close": "قريب",
-        "closed": "مغلق",
-        "delete": "حذف",
-        "deleteAll": "حذف جميع الأجهزة",
-        "deleteDevices": "حذف الأجهزة",
-        "filters": "المرشحات",
-        "logout": "تسجيل خروج",
-        "logoutAll": "تسجيل الخروج من جميع الجلسات",
-        "logoutSessions": "تسجيل الخروج من الجلسات",
-        "no": "رقم",
-        "reset": "إعادة تعيين",
-        "search": "بحث",
-        "yes": "نعم"
-    },
-    "header": {
-        "allSessions": "جميع الجلسات",
-        "mySessions": "جلساتي",
-        "searchSessions": "جلسات البحث",
-        "sessionDetails": "تفاصيل الجلسة",
-        "sessionInfo": "معلومات الجلسة"
-    },
-    "label": {
-        "actions": "أجراءات",
-        "browser": "متصفح",
-        "device": "جهاز",
-        "deviceId": "معرف الجهاز",
-        "ip": "عنوان IP",
-        "location": "موقع",
-        "loginId": "معرف تسجيل الدخول",
-        "loginTime": "وقت تسجيل الدخول",
-        "logoutTime": "وقت الخروج",
-        "status": "حالة",
-        "duration": "مدة"
-    },
-    "modal": {
-        "activeSessionLogout": "جلسة نشطة ، هل أنت متأكد من أنك تريد تسجيل الدخول من هذه الجلسة؟",
-        "delete": "هل أنت متأكد من أنك تريد تسجيل الدخول وحذف هذه الجلسة؟",
-        "deleteExcept": "هل أنت متأكد من أنك تريد حذف جميع الأجهزة باستثناء هذا الجهاز الحالي؟",
-        "deleteSurity": "هل أنت متأكد أنك تريد حذف",
-        "devices": "الأجهزة؟",
-        "logout": "هل أنت متأكد من أنك تريد تسجيل الخروج من هذه الجلسة؟",
-        "logoutExcept": "هل أنت متأكد من أنك تريد تسجيل الدخول من جميع الجلسات باستثناء هذه الجلسة الحالية؟",
-        "note": "يرجى ملاحظة: سيتم تسجيل أي جلسات نشطة وحذفها",
-        "youHaveOnly": "لديك فقط"
-    },
-    "text": {
-        "all": "الجميع",
-        "pagesSelect": "تم تحديد الجلسات في هذه الصفحة",
-        "selectAll": "اختر الكل",
-        "sessionsOfMySessions": "جلسات جلساتي",
-        "sessionsAreSelected": "يتم اختيار الجلسات",
-        "goToPage": "انتقل إلى صفحة",
-        "show": "يعرض",
-        "previousPage": "الصفحة السابقة",
-        "nextPage": "الصفحة التالية"
-    }
+	"allSessions": {
+		"deleteAll": "Deleted all devices.",
+		"deleteSelected": "Deleted all selected devices.",
+		"deviceDeleted": " device has been deleted.",
+		"deviceLogOut": " device has been logged out.",
+		"loggedOutAll": "Logged out of all sessions.",
+		"loggedOutSelected": "Logged out of all selected sessions.",
+		"searchResults": "Your search results will appear here",
+		"sessionOf": " Session Of"
+	},
+	"button": {
+		"active": "Active",
+		"current": "Current",
+		"apply": "APPLY",
+		"clear": "CLEAR",
+		"close": "Close",
+		"closed": "Closed",
+		"delete": "Delete",
+		"deleteAll": "Delete all devices",
+		"deleteDevices": "DELETE DEVICES",
+		"filters": "Filters",
+		"logout": "Logout",
+		"logoutAll": "Log out of all sessions",
+		"logoutSessions": "LOGOUT OF SESSIONS",
+		"no": "No",
+		"reset": "RESET",
+		"search": "SEARCH",
+		"yes": "Yes"
+	},
+	"header": {
+		"allSessions": "All Sessions",
+		"mySessions": "My Sessions",
+		"searchSessions": "Search Sessions",
+		"sessionDetails": "Session Details",
+		"sessionInfo": "Session Information"
+	},
+	"label": {
+		"actions": "ACTIONS",
+		"browser": "Browser",
+		"device": "Device",
+		"deviceId": "Device Id",
+		"ip": "IP Address",
+		"location": "Location",
+		"loginId": "Login Identifier",
+		"loginTime": "Login Time",
+		"logoutTime": "Logout Time",
+		"status": "Status",
+		"duration": "Duration"
+	},
+	"modal": {
+		"activeSessionLogout": "active session, Are you sure you want to logout from this session?",
+		"delete": "Are you sure you want to logout and delete this session?",
+		"deleteExcept": "Are you sure you want to delete all devices except this current device?",
+		"deleteSurity": "Are you sure you want to delete",
+		"devices": "devices?",
+		"logout": "Are you sure you want to logout of this session?",
+		"logoutExcept": "Are you sure you want to logout from all sessions except this current session?",
+		"note": "Please note : Any active sessions will be logged out of and deleted",
+		"youHaveOnly": "You have only"
+	},
+	"text": {
+		"all": "All",
+		"pagesSelect": "sessions on this page are selected",
+		"selectAll": "Select all",
+		"sessionsOfMySessions": "sessions of my sessions",
+		"sessionsAreSelected": "sessions are selected",
+		"goToPage": "Go to Page",
+		"show": "Show",
+		"previousPage": "Previous Page",
+		"nextPage": "Next Page"
+	}
 }

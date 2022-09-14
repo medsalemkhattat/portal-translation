@@ -1,73 +1,73 @@
 {
-    "allSessions": {
-        "deleteAll": "Supprimé tous les appareils.",
-        "deleteSelected": "Supprimé tous les appareils sélectionnés.",
-        "deviceDeleted": "L'appareil a été supprimé.",
-        "deviceLogOut": "L'appareil a été déconnecté.",
-        "loggedOutAll": "Déconnecté de toutes les sessions.",
-        "loggedOutSelected": "Enregistré de toutes les sessions sélectionnées.",
-        "searchResults": "Vos résultats de recherche apparaîtront ici",
-        "sessionOf": "Séance"
-    },
-    "button": {
-        "active": "Active",
-        "current": "Courante",
-        "apply": "APPLIQUER",
-        "clear": "DÉGAGER",
-        "close": "proche",
-        "closed": "Fermée",
-        "delete": "Effacer",
-        "deleteAll": "Supprimer tous les appareils",
-        "deleteDevices": "Supprimer les appareils",
-        "filters": "Filtres",
-        "logout": "Se déconnecter",
-        "logoutAll": "Déconnectez-vous de toutes les sessions",
-        "logoutSessions": "Déconnexion des sessions",
-        "no": "Non",
-        "reset": "RÉINITIALISER",
-        "search": "CHERCHER",
-        "yes": "Oui"
-    },
-    "header": {
-        "allSessions": "Toutes les sessions",
-        "mySessions": "Mes sessions",
-        "searchSessions": "Sessions de recherche",
-        "sessionDetails": "Détails de la session",
-        "sessionInfo": "Informations sur la session"
-    },
-    "label": {
-        "actions": "ACTIONS",
-        "browser": "Navigateur",
-        "device": "Dispositif",
-        "deviceId": "Reference de l'appareil",
-        "ip": "Adresse IP",
-        "location": "Emplacement",
-        "loginId": "Identifiant de connexion",
-        "loginTime": "Temps de connexion",
-        "logoutTime": "Heure de déconnexion",
-        "status": "Statut",
-        "duration": "Durée"
-    },
-    "modal": {
-        "activeSessionLogout": "Session active, êtes-vous sûr de vouloir vous connecter à partir de cette session?",
-        "delete": "Êtes-vous sûr de vouloir déconnecter et de supprimer cette session?",
-        "deleteExcept": "Êtes-vous sûr de vouloir supprimer tous les appareils, sauf cet appareil actuel?",
-        "deleteSurity": "Etes-vous sûr que vous voulez supprimer",
-        "devices": "dispositifs?",
-        "logout": "Êtes-vous sûr de vouloir déconnecter cette session?",
-        "logoutExcept": "Êtes-vous sûr de vouloir vous connecter à partir de toutes les sessions, sauf cette session actuelle?",
-        "note": "Veuillez noter: toutes les sessions actives seront déconnectées et supprimées",
-        "youHaveOnly": "Tu as seulement"
-    },
-    "text": {
-        "all": "Toute",
-        "pagesSelect": "Les sessions sur cette page sont sélectionnées",
-        "selectAll": "Tout sélectionner",
-        "sessionsOfMySessions": "Sessions de mes sessions",
-        "sessionsAreSelected": "Les sessions sont sélectionnées",
-        "goToPage": "Aller à la page",
-        "show": "Spectacle",
-        "previousPage": "Page précédente",
-        "nextPage": "Page suivante"
-    }
+	"allSessions": {
+		"deleteAll": "Deleted all devices.",
+		"deleteSelected": "Deleted all selected devices.",
+		"deviceDeleted": " device has been deleted.",
+		"deviceLogOut": " device has been logged out.",
+		"loggedOutAll": "Logged out of all sessions.",
+		"loggedOutSelected": "Logged out of all selected sessions.",
+		"searchResults": "Your search results will appear here",
+		"sessionOf": " Session Of"
+	},
+	"button": {
+		"active": "Active",
+		"current": "Current",
+		"apply": "APPLY",
+		"clear": "CLEAR",
+		"close": "Close",
+		"closed": "Closed",
+		"delete": "Delete",
+		"deleteAll": "Delete all devices",
+		"deleteDevices": "DELETE DEVICES",
+		"filters": "Filters",
+		"logout": "Logout",
+		"logoutAll": "Log out of all sessions",
+		"logoutSessions": "LOGOUT OF SESSIONS",
+		"no": "No",
+		"reset": "RESET",
+		"search": "SEARCH",
+		"yes": "Yes"
+	},
+	"header": {
+		"allSessions": "All Sessions",
+		"mySessions": "My Sessions",
+		"searchSessions": "Search Sessions",
+		"sessionDetails": "Session Details",
+		"sessionInfo": "Session Information"
+	},
+	"label": {
+		"actions": "ACTIONS",
+		"browser": "Browser",
+		"device": "Device",
+		"deviceId": "Device Id",
+		"ip": "IP Address",
+		"location": "Location",
+		"loginId": "Login Identifier",
+		"loginTime": "Login Time",
+		"logoutTime": "Logout Time",
+		"status": "Status",
+		"duration": "Duration"
+	},
+	"modal": {
+		"activeSessionLogout": "active session, Are you sure you want to logout from this session?",
+		"delete": "Are you sure you want to logout and delete this session?",
+		"deleteExcept": "Are you sure you want to delete all devices except this current device?",
+		"deleteSurity": "Are you sure you want to delete",
+		"devices": "devices?",
+		"logout": "Are you sure you want to logout of this session?",
+		"logoutExcept": "Are you sure you want to logout from all sessions except this current session?",
+		"note": "Please note : Any active sessions will be logged out of and deleted",
+		"youHaveOnly": "You have only"
+	},
+	"text": {
+		"all": "All",
+		"pagesSelect": "sessions on this page are selected",
+		"selectAll": "Select all",
+		"sessionsOfMySessions": "sessions of my sessions",
+		"sessionsAreSelected": "sessions are selected",
+		"goToPage": "Go to Page",
+		"show": "Show",
+		"previousPage": "Previous Page",
+		"nextPage": "Next Page"
+	}
 }
