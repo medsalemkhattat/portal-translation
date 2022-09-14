@@ -1,64 +1,64 @@
 {
-    "common": {
-      "buttonLabels": {
-        "reset": "إعادة تعيين",
-        "search": "بحث"
-      },
-      "text": {
-        "goToPage": "انتقل إلى صفحة",
-        "show": "يعرض:",
-        "adminTransaction": "معاملة المسؤول",
-        "singleOperation": "عملية واحدة",
-        "multipleOperation": "عملية متعددة"
-      }
+  "common": {
+    "buttonLabels": {
+      "reset": "RESET",
+      "search": "SEARCH"
     },
-    "snackBar": {
-      "close": "قريب"
-    },
-    "adminBulkTransaction": {
-      "confirmation": {
-        "ContactSysAdmin": "أوه لا! هناك خطأ ما. يرجى الاتصال بمسؤول النظام."
-      }
-    },
-    "messages": {
-      "noDataFound": "لا توجد بيانات موجودة",
-      "serviceUnavailable": "الخدمة غير متوفرة. يرجى المحاولة بعد مرور بعض الوقت!",
-      "internalServerError": "خطأ في الخادم الداخلي!"
-    },
-    "interestDisbursal": {
-      "text": {
-        "searchResults": "نتائج البحث",
-        "duration": "المدة الزمنية",
-        "category": "الفئة",
-        "grade": "المرتبة",
-        "walletType": "نوع المحفظة",
-        "userCount": "عدد المستخدم",
-        "interestAmount": "مبلغ الفائدة",
-        "principalAmount": "المبلغ الرئيسي",
-        "status": "الحالة",
-        "action": "أجراءات",
-        "viewAllDetails": "عرض جميع التفاصيل",
-        "initiated": "بدأت",
-        "disbursed": "صرف",
-        "notDisbursed": "لم يتم صرفها",
-        "partiallyDisbursed": "صرف جزئيا",
-        "failed": "باءت بالفشل",
-        "yourSearchResultsWillAppearHere": "ستظهر نتائج البحث الخاصة بك هنا",
-        "more": "أكثر",
-        "pageUnderConstruction": "صفحة قيد الإنشاء",
-        "searchBy": "ابحث عن طريق",
-        "startMonth": "شهر البدء",
-        "endMonth": "نهاية الشهر",
-        "interestWalletBalance": "توازن محفظة الفائدة",
-        "moreDetails": "المزيد من التفاصيل",
-        "currency": "عملة",
-        "categoryFilter": "فئة",
-        "gradeFilter": "صف دراسي",
-        "walletTypeFilter": "نوع المحفظة",
-        "userCountFilter": "عدد المستخدم",
-        "interestAmountFilter": "مبلغ الفائدة",
-        "principalAmountFilter": "المبلغ الرئيسي",
-        "statusFilter": "حالة"
-      }
+    "text": {
+      "goToPage": "Go to page",
+      "show": "Show:",
+      "adminTransaction": "Admin Transaction",
+      "singleOperation": "Single Operation",
+      "multipleOperation": "Multiple Operation"
+    }
+  },
+  "snackBar": {
+    "close": "Close"
+  },
+  "adminBulkTransaction": {
+    "confirmation": {
+      "ContactSysAdmin": "Oh No! Something went wrong. Please contact System Administrator."
+    }
+  },
+  "messages": {
+    "noDataFound": "No data present",
+    "serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
+    "internalServerError": "Internal Server Error!"
+  },
+  "interestDisbursal": {
+    "text": {
+      "searchResults": "Search Results",
+      "duration": "DURATION",
+      "category": "CATEGORY",
+      "grade": "GRADE",
+      "walletType": "WALLET TYPE",
+      "userCount": "USER COUNT",
+      "interestAmount": "INTEREST AMOUNT",
+      "principalAmount": "PRINCIPAL AMOUNT",
+      "status": "STATUS",
+      "action": "ACTIONS",
+      "viewAllDetails": "View all details",
+      "initiated": "Initiated",
+      "disbursed": "Disbursed",
+      "notDisbursed": "Not disbursed",
+      "partiallyDisbursed": "Partially disbursed",
+      "failed": "Failed",
+      "yourSearchResultsWillAppearHere": "Your Search Results Will Appear Here",
+      "more": "More",
+      "pageUnderConstruction": "Page Under Construction",
+      "searchBy": "Search By",
+      "startMonth": "Start Month",
+      "endMonth": "End Month",
+      "interestWalletBalance": "Interest Wallet Balance",
+      "moreDetails": "More Details",
+      "currency": "Currency",
+      "categoryFilter": "Category",
+      "gradeFilter": "Grade",
+      "walletTypeFilter": "Wallet Type",
+      "userCountFilter": "User Count",
+      "interestAmountFilter": "Interest Amount",
+      "principalAmountFilter": "Principal Amount",
+      "statusFilter": "Status"
     }
   }
+}
