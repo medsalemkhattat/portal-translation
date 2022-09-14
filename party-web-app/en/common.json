@@ -109,7 +109,6 @@
     "processing": "UNDER PROCESSING"
   },
   "emptyMessage": "No records found",
-
   "unblock": {
     "headers": {
       "accessIdentifier": "Access Identifier",

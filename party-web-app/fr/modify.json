@@ -1,138 +1,138 @@
 {
     "resumeSuspend": {
-        "resumeUser": "Reprendre l'utilisateur",
-        "suspendUser": "Suspendre l'utilisateur",
-        "mobileNumber": "Mobile No.",
-        "name": "Nom",
-        "kycIdType": "Type d'identification KYC",
-        "kycNumber": "Numéro KYC",
-        "reason": "Raison",
-        "reasonReq": "La raison est requise",
-        "resBtn": "CV",
-        "susBtn": "Suspendre"
+      "resumeUser": "RESUME USER",
+      "suspendUser": "SUSPEND USER",
+      "mobileNumber": "Mobile No.",
+      "name": "Name",
+      "kycIdType": "KYC ID Type",
+      "kycNumber": "KYC Number",
+      "reason": "Reason",
+      "reasonReq": "Reason is required",
+      "resBtn": "Resume",
+      "susBtn": "Suspend"
     },
     "modifyWallet": {
-        "tabs": {
-            "all": "Toute",
-            "approved": "Approuvée",
-            "rejected": "Rejetée"
-        },
-        "sectionHeader": "Portefeuilles"
+      "tabs": {
+        "all": "All",
+        "approved": "Approved",
+        "rejected": "Rejected"
+      },
+      "sectionHeader": "Wallets"
     },
     "icons": {
-        "view": "Voir tout",
-        "suspend": "Suspendre l'utilisateur",
-        "resume": "Reprendre l'utilisateur",
-        "wallet": "Modifier l'état du portefeuille",
-        "primaryAcc": "Modifier le compte primaire",
-        "susWallet": "Suspender le portefeuille",
-        "resWallet": "Portefeuille de CV",
-        "delWallet": "Supprimer le portefeuille"
+      "view": "View All",
+      "suspend": "Suspend User",
+      "resume": "Resume user",
+      "wallet": "Modify Wallet status",
+      "primaryAcc": "Modify primary account",
+      "susWallet": "Suspend Wallet",
+      "resWallet": "Resume Wallet",
+      "delWallet": "Delete wallet"
     },
     "primaryAccNum": {
-        "modify": "Modifier",
-        "modifyPrDetails": "Modifier les détails principaux",
-        "mobileNo": "Mobile no.",
-        "name": "Nom",
-        "kycIdType": "Type d'identification KYC",
-        "kycNumber": "Numéro KYC",
-        "accNo": "N ° de compte:",
-        "editPrAccMobNo": "Modifier le compte principal / N ° de mobile",
-        "currMobNo": "N ° de mobile actuel:",
-        "newMobNo": "Nouveau mobile no.",
-        "modifyFail": "L'initiation des modifications a échoué",
-        "modifySuccess": "Demande initiée pour l'approbation",
-        "save": "sauvegarder",
-        "kycModifyHeader": "Détails KYC (primaire)",
-        "issuedPlace": "Place délivrée",
-        "issuedCountry": "Pays émis",
-        "issuedDate": "Date de publication",
-        "validity": "Validité",
-        "editKycHeader": "Modifier le primaire KYC",
-        "reqKycIdType": "Le type d'identification KYC est requis",
-        "reqKycIdValue": "La valeur de l'ID KYC est requise",
-        "invalidKycIdValue": "Valeur d'identification KYC non valide",
-        "expiryDate": "Date d'expiration",
-        "uploadImage": "Télécharger",
-        "kycIdValue": "Valeur d'identification KYC"
+      "modify": "Modify",
+      "modifyPrDetails": "Modify Primary Details",
+      "mobileNo": "Mobile no.",
+      "name": "Name",
+      "kycIdType": "KYC ID type",
+      "kycNumber": "KYC number",
+      "accNo": "Account No:",
+      "editPrAccMobNo": "Edit Primary Account/Mobile No.",
+      "currMobNo": "Current mobile no:",
+      "newMobNo": "New mobile no.",
+      "modifyFail": "Modification initiation has failed",
+      "modifySuccess": "Request initiated for approval",
+      "save": "Save",
+      "kycModifyHeader": "KYC DETAILS (PRIMARY)",
+      "issuedPlace": "Issued Place",
+      "issuedCountry": "Issued Country",
+      "issuedDate": "Issued Date",
+      "validity": "Validity",
+      "editKycHeader": "EDIT PRIMARY KYC",
+      "reqKycIdType": "KYC ID type is required",
+      "reqKycIdValue": "KYC ID value is required",
+      "invalidKycIdValue": "Invalid KYC ID value",
+      "expiryDate": "Expiry Date",
+      "uploadImage": "Upload",
+      "kycIdValue": "KYC ID value"
     },
     "button": {
-        "save": "Sauvegarder les modifications",
-        "previous": "Précédente",
-        "kycDetail": "Détails KYC",
-        "accountDetail": "Détails du compte"
+      "save": "Save changes",
+      "previous": "Previous",
+      "kycDetail": "KYC Details",
+      "accountDetail": "Account Details"
     },
     "recentActivity": {
-        "tabs": {
-            "modifications": "Modifications",
-            "linking": "Mise en relation",
-            "accountModification": "Modification du compte",
-            "suspendResume": "Suspende / CV",
-            "walletModification": "Modification du portefeuille",
-            "primaryAccount": "Modification des détails principaux"
-        }
+      "tabs": {
+        "modifications": "Modifications",
+        "linking": "Linking",
+        "accountModification": "Account modification",
+        "suspendResume": "Suspend/Resume user",
+        "walletModification": "Wallet modification",
+        "primaryAccount": "Primary detail modification"
+      }
     },
     "userMessage": {
-        "modifySuccess": "Modification réussie",
-        "confirm": "CONFIRMER",
-        "cancel": "Voulez-vous vraiment annuler la modification?",
-        "noChange": "Vous n'avez modifié aucune valeur."
+      "modifySuccess": "Modification successful",
+      "confirm": "CONFIRM",
+      "cancel": "Do you really want to cancel the modification?",
+      "noChange": "You have not modified any values."
     },
     "wallet": {
-        "topComponent": {
-            "initiatedBy": "Initié par",
-            "initiatedOn": "Initié sur",
-            "modifiedBy": "Modifié par",
-            "modifiedOn": "Modifié sur"
+      "topComponent": {
+        "initiatedBy": " Initiated By",
+        "initiatedOn": "Initiated On",
+        "modifiedBy": "Modified By",
+        "modifiedOn": "Modified On"
+      },
+      "table": {
+        "headers": {
+          "mfsProvider": "MFS PROVIDER",
+          "walletType": "WALLET TYPES",
+          "grade": "GRADE",
+          "prevStatus": "PREVIOUS STATUS",
+          "currentStatus": "CURRENT STATUS",
+          "balance": "BALANCE",
+          "primaryWallet": "PRIMARY WALLET",
+          "actions": "ACTIONS"
         },
-        "table": {
-            "headers": {
-                "mfsProvider": "Fournisseur MFS",
-                "walletType": "Types de portefeuille",
-                "grade": "NOTER",
-                "prevStatus": "État précédent",
-                "currentStatus": "STATUT ACTUEL",
-                "balance": "SOLDE",
-                "primaryWallet": "Portefeuille principal",
-                "actions": "ACTIONS"
-            },
-            "status": {
-                "active": "Active",
-                "suspended": "Suspendue",
-                "suspendInitiate": "Suspender initié",
-                "deleteInitiate": "Supprimer initié",
-                "resumeInitiate": "CV initié",
-                "inactive": "Inactive",
-                "yes": "Oui",
-                "no": "Non"
-            }
-        },
-        "breadCrumb": {
-            "modify": "Modifier",
-            "walletDetails": "Détails du portefeuille et statut",
-            "walletApproval": "Approbation du statut de portefeuille",
-            "actions": "Actions",
-            "recentActivity": "Activité récente du portefeuille"
-        },
-        "sectionHeader": "Portefeuilles",
-        "button": {
-            "approve": "APPROUVER",
-            "reject": "REJETER",
-            "withdraw": "SE DÉSISTER",
-            "cancel": "ANNULER"
+        "status": {
+          "active": "Active",
+          "suspended": "Suspended",
+          "suspendInitiate": "Suspend Initiated",
+          "deleteInitiate": "Delete Initiated",
+          "resumeInitiate": "Resume Initiated",
+          "inactive": "Inactive",
+          "yes": "Yes",
+          "no": "No"
         }
+      },
+      "breadCrumb": {
+        "modify": "Modify",
+        "walletDetails": "Wallet Details and Status",
+        "walletApproval": "Wallet Status Approval",
+        "actions": "Actions",
+        "recentActivity": "Wallet Recent Activity"
+      },
+      "sectionHeader": "Wallets",
+      "button": {
+        "approve": "APPROVE",
+        "reject": "REJECT",
+        "withdraw": "WITHDRAW",
+        "cancel": "CANCEL"
+      }
     },
     "view": {
-        "modify": "Modifier",
-        "accountDetails": "Afficher les détails de l'accout",
-        "accountIdType": "Type d'identification du compte",
-        "accountIdValue": "Valeur d'identification du compte",
-        "kycPrimary": "Détails KYC (primaire)",
-        "kycDetails": "Détails KYC"
+      "modify": "Modify",
+      "accountDetails": "View Accout Details",
+      "accountIdType": "ACCOUNT ID TYPE",
+      "accountIdValue": "ACCOUNT ID VALUE",
+      "kycPrimary": "KYC DETAILS (PRIMARY)",
+      "kycDetails": "KYC DETAILS"
     },
     "dialog": {
-        "title": "Êtes-vous sûr?",
-        "approveText": "Approuver la modification",
-        "rejectText": "Rejeter la modification"
+      "title": "Are you sure?",
+      "approveText": "Approve Modification",
+      "rejectText": "Reject modification"
     }
-}
+  }
