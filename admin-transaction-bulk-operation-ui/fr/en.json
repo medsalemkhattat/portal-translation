@@ -1,64 +1,64 @@
 {
   "common": {
     "buttonLabels": {
-      "reset": "RESET",
-      "search": "SEARCH"
+      "reset": "RÉINITIALISER",
+      "search": "CHERCHER"
     },
     "text": {
-      "goToPage": "Go to page",
-      "show": "Show:",
-      "adminTransaction": "Admin Transaction",
-      "singleOperation": "Single Operation",
-      "multipleOperation": "Multiple Operation"
+      "goToPage": "Aller à la page",
+      "show": "Spectacle:",
+      "adminTransaction": "Transaction d'administration",
+      "singleOperation": "Opération unique",
+      "multipleOperation": "Opération multiple"
     }
   },
   "snackBar": {
-    "close": "Close"
+    "close": "proche"
   },
   "adminBulkTransaction": {
     "confirmation": {
-      "ContactSysAdmin": "Oh No! Something went wrong. Please contact System Administrator."
+      "ContactSysAdmin": "Oh non! Quelque chose s'est mal passé. Veuillez contacter l'administrateur du système."
     }
   },
   "messages": {
-    "noDataFound": "No data present",
-    "serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
-    "internalServerError": "Internal Server Error!"
+    "noDataFound": "Aucune donnée présente",
+    "serviceUnavailable": "Service indisponible. Veuillez essayer après un certain temps!",
+    "internalServerError": "Erreur interne du serveur!"
   },
   "interestDisbursal": {
     "text": {
-      "searchResults": "Search Results",
-      "duration": "DURATION",
-      "category": "CATEGORY",
-      "grade": "GRADE",
-      "walletType": "WALLET TYPE",
-      "userCount": "USER COUNT",
-      "interestAmount": "INTEREST AMOUNT",
-      "principalAmount": "PRINCIPAL AMOUNT",
-      "status": "STATUS",
+      "searchResults": "Résultats de recherche",
+      "duration": "DURÉE",
+      "category": "CATÉGORIE",
+      "grade": "NOTER",
+      "walletType": "Type de portefeuille",
+      "userCount": "Nombre d'utilisateurs",
+      "interestAmount": "MONTANT DES INTÉRÊTS",
+      "principalAmount": "LE MONTANT PRINCIPAL",
+      "status": "STATUT",
       "action": "ACTIONS",
-      "viewAllDetails": "View all details",
-      "initiated": "Initiated",
-      "disbursed": "Disbursed",
-      "notDisbursed": "Not disbursed",
-      "partiallyDisbursed": "Partially disbursed",
-      "failed": "Failed",
-      "yourSearchResultsWillAppearHere": "Your Search Results Will Appear Here",
-      "more": "More",
-      "pageUnderConstruction": "Page Under Construction",
-      "searchBy": "Search By",
-      "startMonth": "Start Month",
-      "endMonth": "End Month",
-      "interestWalletBalance": "Interest Wallet Balance",
-      "moreDetails": "More Details",
-      "currency": "Currency",
-      "categoryFilter": "Category",
-      "gradeFilter": "Grade",
-      "walletTypeFilter": "Wallet Type",
-      "userCountFilter": "User Count",
-      "interestAmountFilter": "Interest Amount",
-      "principalAmountFilter": "Principal Amount",
-      "statusFilter": "Status"
+      "viewAllDetails": "Afficher tous les détails",
+      "initiated": "Initiée",
+      "disbursed": "Déboursé",
+      "notDisbursed": "Non décaissé",
+      "partiallyDisbursed": "Partiellement décaissé",
+      "failed": "Manquée",
+      "yourSearchResultsWillAppearHere": "Vos résultats de recherche apparaîtront ici",
+      "more": "Suite",
+      "pageUnderConstruction": "Page en construction",
+      "searchBy": "Recherché par",
+      "startMonth": "Début du mois",
+      "endMonth": "Mois de fin",
+      "interestWalletBalance": "Solde de portefeuille d'intérêt",
+      "moreDetails": "Plus de détails",
+      "currency": "Devise",
+      "categoryFilter": "Catégorie",
+      "gradeFilter": "Noter",
+      "walletTypeFilter": "Type de portefeuille",
+      "userCountFilter": "Nombre d'utilisateurs",
+      "interestAmountFilter": "Montant des intérêts",
+      "principalAmountFilter": "Le montant principal",
+      "statusFilter": "Statut"
     }
   }
 }
