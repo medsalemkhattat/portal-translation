@@ -1,14 +1,14 @@
 [
     {
-      "name": "Approved",
-      "value": "SUCCEEDED"
+        "name": "Approuvée",
+        "value": "RÉUSSIE"
     },
     {
-      "name": "Failed",
-      "value": "FAILED"
+        "name": "Manquée",
+        "value": "MANQUÉE"
     },
     {
-      "name": "Initiated",
-      "value": "INITIATED"
+        "name": "Initiée",
+        "value": "INITIÉE"
     }
-  ]
+]

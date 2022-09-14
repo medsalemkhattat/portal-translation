@@ -1,14 +1,14 @@
 [
     {
-      "name": "Approved",
-      "value": "SUCCEEDED"
+        "name": "وافق",
+        "value": "نجح"
     },
     {
-      "name": "Failed",
-      "value": "FAILED"
+        "name": "باءت بالفشل",
+        "value": "باءت بالفشل"
     },
     {
-      "name": "Initiated",
-      "value": "INITIATED"
+        "name": "بدأت",
+        "value": "بدأت"
     }
-  ]
+]
