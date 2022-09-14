@@ -1,79 +1,79 @@
 {
-    "common": {
-      "buttonLabels": {
-        "cancel": "إلغاء",
-        "next": "التالي",
-        "setUp": "اقامة",
-        "setUpNew": "إعداد جديد",
-        "yes": "نعم",
-        "no": "رقم"
-      },
-      "text": {
-        "autoTransferToBank": "نقل السيارات إلى البنك",
-        "notSet": "النقل التلقائي لم يتم تعيينه بعد",
-        "setUpmsg": "قم بإعداد نقل السيارات الخاص بك للتحويلات المجانية للمشاحنات",
-        "tobnk": "لحسابك المصرفي",
-        "areYouSure": "هل أنت متأكد من أنك تريد",
-        "resume": "سيرة ذاتية",
-        "delete": "حذف",
-        "pause": "وقفة",
-        "thisAutoTransfer": "هذا النقل التلقائي؟",
-        "setup": "اقامة",
-        "modify": "تعديل",
-        "enterInformation": "أدخل المعلومات",
-        "startDate": "تاريخ البدء",
-        "repeat": "يكرر",
-        "selectRecurringType": "حدد النوع المتكرر",
-        "amountWillBeAutoTransferred": "سيتم نقل المبلغ تلقائيًا",
-        "daily": "اليومي",
-        "selectAll": "اختر الكل",
-        "clear": "صافي",
-        "ofEvery": "كل",
-        "week": "أسبوع",
-        "month": "شهر",
-        "time": "زمن",
-        "currency": "عملة",
-        "selectCurrency": "اختر العملة",
-        "autoSweepTo": "اكتساح السيارات ل",
-        "selectBankAccount": "حدد حساب مصرفي",
-        "from": "من",
-        "selectWallet": "حدد محفظة",
-        "minimumBalance": "الحد الادنى للرصيد",
-        "walletAfterEveryTransferInfo": "هذا هو المبلغ الذي ستحصل عليه دائمًا في محفظتك بعد كل عملية نقل",
-        "on": "على",
-        "active": "نشيط",
-        "paused": "توقف مؤقتا",
-        "enterAmount": "أدخل المبلغ",
-        "startsOn": "يبدأ",
-        "at": "في",
-        "frequency": "تكرار",
-        "paymentInfo": "معلومات الدفع",
-        "unauthorized": "غير مصرح",
-        "token": "رمز",
-        "and": "و",
-        "suspended": "موقوف عن العمل"
-      },
-      "column": {
-        "autoTransferto": "نقل السيارات ل",
-        "from": "من",
-        "repeat": "كرر",
-        "time": "زمن",
-        "startsOn": "يبدأ",
-        "minAmount": "الحد الأدنى للمبلغ",
-        "status": "الحالة",
-        "action": "عمل"
-      }
-    },
-    "snackBar": {
-      "close": "قريب"
-    },
-    "pageNotFound": {
-      "error404": "404 نحن نبحث عن صفحتك ...",
-      "errorNotFound": "... لكن لا يمكننا العثور عليها."
-    },
-    "messages": {
-      "ContactSysAdmin": "أوه لا! هناك خطأ ما. يرجى الاتصال بمسؤول النظام.",
-      "serviceUnavailable": "الخدمة غير متوفرة. يرجى المحاولة بعد مرور بعض الوقت!",
-      "internalServerError": "خطأ في الخادم الداخلي!"
-    }
-  }
+	"common": {
+		"buttonLabels": {
+			"cancel": "CANCEL",
+			"next": "NEXT",
+			"setUp": "SETUP",
+			"setUpNew": "SETUP NEW",
+			"yes": "YES",
+			"no": "NO"
+		},
+		"text": {
+			"autoTransferToBank": "Auto-Transfer to Bank",
+			"notSet": "Auto-transfer not set yet",
+			"setUpmsg": "Set up your auto transfer for hassle free transfers",
+			"tobnk": "to your bank accounts",
+			"areYouSure": "Are you sure you want to",
+			"resume": "resume",
+			"delete": "delete",
+			"pause": "pause",
+			"thisAutoTransfer": "this Auto-Transfer?",
+			"setup": "Setup",
+			"modify": "Modify",
+			"enterInformation": "Enter Information",
+			"startDate": "Start Date",
+			"repeat": "Repeat",
+			"selectRecurringType": "Select Recurring Type",
+			"amountWillBeAutoTransferred": "Amount will be auto-transferred",
+			"daily": "Daily",
+			"selectAll": "Select all",
+			"clear": "Clear",
+			"ofEvery": "every",
+			"week": "week",
+			"month": "Month",
+			"time": "Time",
+			"currency": "Currency",
+			"selectCurrency": "Select currency",
+			"autoSweepTo": "Auto Sweep To",
+			"selectBankAccount": "Select bank account",
+			"from": "From",
+			"selectWallet": "Select wallet",
+			"minimumBalance": "Minimum Balance",
+			"walletAfterEveryTransferInfo": "This is the amount that you will always have in your wallet after every transfer",
+			"on": "on",
+			"active": "Active",
+			"paused": "Paused",
+			"enterAmount": "Enter Amount",
+			"startsOn": "starts on",
+			"at": "at",
+			"frequency": "Frequency",
+			"paymentInfo": "Payment Info",
+			"unauthorized": "Unauthorized",
+			"token": "Token",
+			"and": "and",
+			"suspended": "Suspended"
+		},
+		"column": {
+			"autoTransferto": "AUTO-TRANSFER TO",
+			"from": "FROM",
+			"repeat": "REPEAT",
+			"time": "TIME",
+			"startsOn": "STARTS ON",
+			"minAmount": "MINIMUM AMOUNT",
+			"status": "STATUS",
+			"action": "ACTION"
+		}
+	},
+	"snackBar": {
+		"close": "Close"
+	},
+	"pageNotFound": {
+		"error404": "404 We are searching for your page...",
+		"errorNotFound": "... But we can not find it."
+	},
+	"messages": {
+		"ContactSysAdmin": "Oh No! Something went wrong. Please contact System Administrator.",
+		"serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
+		"internalServerError": "Internal Server Error!"
+	}
+}
