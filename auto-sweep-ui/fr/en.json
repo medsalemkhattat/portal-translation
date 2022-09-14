@@ -1,79 +1,79 @@
 {
-	"common": {
-		"buttonLabels": {
-			"cancel": "CANCEL",
-			"next": "NEXT",
-			"setUp": "SETUP",
-			"setUpNew": "SETUP NEW",
-			"yes": "YES",
-			"no": "NO"
-		},
-		"text": {
-			"autoTransferToBank": "Auto-Transfer to Bank",
-			"notSet": "Auto-transfer not set yet",
-			"setUpmsg": "Set up your auto transfer for hassle free transfers",
-			"tobnk": "to your bank accounts",
-			"areYouSure": "Are you sure you want to",
-			"resume": "resume",
-			"delete": "delete",
-			"pause": "pause",
-			"thisAutoTransfer": "this Auto-Transfer?",
-			"setup": "Setup",
-			"modify": "Modify",
-			"enterInformation": "Enter Information",
-			"startDate": "Start Date",
-			"repeat": "Repeat",
-			"selectRecurringType": "Select Recurring Type",
-			"amountWillBeAutoTransferred": "Amount will be auto-transferred",
-			"daily": "Daily",
-			"selectAll": "Select all",
-			"clear": "Clear",
-			"ofEvery": "every",
-			"week": "week",
-			"month": "Month",
-			"time": "Time",
-			"currency": "Currency",
-			"selectCurrency": "Select currency",
-			"autoSweepTo": "Auto Sweep To",
-			"selectBankAccount": "Select bank account",
-			"from": "From",
-			"selectWallet": "Select wallet",
-			"minimumBalance": "Minimum Balance",
-			"walletAfterEveryTransferInfo": "This is the amount that you will always have in your wallet after every transfer",
-			"on": "on",
-			"active": "Active",
-			"paused": "Paused",
-			"enterAmount": "Enter Amount",
-			"startsOn": "starts on",
-			"at": "at",
-			"frequency": "Frequency",
-			"paymentInfo": "Payment Info",
-			"unauthorized": "Unauthorized",
-			"token": "Token",
-			"and": "and",
-			"suspended": "Suspended"
-		},
-		"column": {
-			"autoTransferto": "AUTO-TRANSFER TO",
-			"from": "FROM",
-			"repeat": "REPEAT",
-			"time": "TIME",
-			"startsOn": "STARTS ON",
-			"minAmount": "MINIMUM AMOUNT",
-			"status": "STATUS",
-			"action": "ACTION"
-		}
-	},
-	"snackBar": {
-		"close": "Close"
-	},
-	"pageNotFound": {
-		"error404": "404 We are searching for your page...",
-		"errorNotFound": "... But we can not find it."
-	},
-	"messages": {
-		"ContactSysAdmin": "Oh No! Something went wrong. Please contact System Administrator.",
-		"serviceUnavailable": "Service Unavailable. Please Try After Some Time!",
-		"internalServerError": "Internal Server Error!"
-	}
+  "common": {
+    "buttonLabels": {
+      "cancel": "ANNULER",
+      "next": "SUIVANTE",
+      "setUp": "METTRE EN PLACE",
+      "setUpNew": "Configuration nouvelle",
+      "yes": "OUI",
+      "no": "NON"
+    },
+    "text": {
+      "autoTransferToBank": "Transfert automatique à la banque",
+      "notSet": "Transfert automatique n'est pas encore réglé",
+      "setUpmsg": "Configurez votre transfert automatique pour les transferts sans tracas",
+      "tobnk": "à vos comptes bancaires",
+      "areYouSure": "Êtes-vous sûr de vouloir",
+      "resume": "CV",
+      "delete": "effacer",
+      "pause": "pause",
+      "thisAutoTransfer": "Ce transfert automatique?",
+      "setup": "Installer",
+      "modify": "Modifier",
+      "enterInformation": "Entrer des informations",
+      "startDate": "Date de début",
+      "repeat": "Répéter",
+      "selectRecurringType": "Sélectionner le type récurrent",
+      "amountWillBeAutoTransferred": "Le montant sera automatiquement transféré",
+      "daily": "du quotidien",
+      "selectAll": "Tout sélectionner",
+      "clear": "Dégager",
+      "ofEvery": "tous",
+      "week": "la semaine",
+      "month": "Mois",
+      "time": "Temps",
+      "currency": "Devise",
+      "selectCurrency": "Sélectionnez la devise",
+      "autoSweepTo": "Balayage automatique à",
+      "selectBankAccount": "Sélectionner un compte bancaire",
+      "from": "De",
+      "selectWallet": "Sélectionner le portefeuille",
+      "minimumBalance": "La balance minimum",
+      "walletAfterEveryTransferInfo": "C'est le montant que vous aurez toujours dans votre portefeuille après chaque transfert",
+      "on": "sur",
+      "active": "Active",
+      "paused": "Interrompue",
+      "enterAmount": "Entrer le montant",
+      "startsOn": "commence sur",
+      "at": "à",
+      "frequency": "La fréquence",
+      "paymentInfo": "Information de paiement",
+      "unauthorized": "Non autorisé",
+      "token": "Jeton",
+      "and": "et",
+      "suspended": "Suspendue"
+    },
+    "column": {
+      "autoTransferto": "Transfert automatiquement",
+      "from": "DE",
+      "repeat": "RÉPÉTER",
+      "time": "TEMPS",
+      "startsOn": "Commence sur",
+      "minAmount": "MONTANT MINIMAL",
+      "status": "STATUT",
+      "action": "ACTION"
+    }
+  },
+  "snackBar": {
+    "close": "proche"
+  },
+  "pageNotFound": {
+    "error404": "404 Nous recherchons votre page ...",
+    "errorNotFound": "... mais nous ne pouvons pas le trouver."
+  },
+  "messages": {
+    "ContactSysAdmin": "Oh non! Quelque chose s'est mal passé. Veuillez contacter l'administrateur du système.",
+    "serviceUnavailable": "Service indisponible. Veuillez essayer après un certain temps!",
+    "internalServerError": "Erreur interne du serveur!"
+  }
 }
