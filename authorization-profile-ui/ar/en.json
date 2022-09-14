@@ -1,99 +1,99 @@
 {
-    "authProfile": {
-      "title": "ملف تعريف التفويض",
-      "addProfile": {
-        "title": "إضافة ملف تعريف"
-      },
-      "editProfile": {
-        "title": "تعديل الملف الشخصي"
-      },
-      "cloneProfile": {
-        "title": "استنساخ الملف الشخصي"
-      },
-      "viewProfile": {
-        "title": "عرض الصفحة الشخصية"
-      },
-      "reviewProfile": {
-        "title": "مراجعة وتأكيد",
-        "moduleConfigured": "الوحدة النمطية التي تم تكوينها في المجموع",
-        "modulesConfigured": "الوحدات النمطية التي تم تكوينها في المجموع"
-      },
-      "listProfile": {
-        "filters": {
-          "text": {
-            "status": "حالة",
-            "category": "فئة"
-          },
-          "checkbox": {
-            "default": "تقصير",
-            "userDefined": "تعريف المستخدم"
-          }
-        },
-        "table": {
-          "columns": {
-            "profileName": "اسم الشخصية",
-            "category": "الفئة",
-            "type": "يكتب",
-            "createdOn": "تم إنشاؤها على",
-            "createdBy": "انشأ من قبل",
-            "modifiedOn": "تعديل على"
-          }
-        }
-      }
-    },
-    "common": {
-      "text": {
-        "selectUserType": "حدد نوع المستخدم",
-        "selectUserRole": "حدد دور المستخدم",
-        "setupProfile": "ملف تعريف الإعداد",
-        "profileName": "اسم الشخصية",
-        "enterProfileName": "أدخل اسم الملف الشخصي",
-        "modules": "الوحدات النمطية",
-        "services": "خدمات",
-        "setServicePreferences": "تعيين تفضيلات الخدمة",
-        "search": "بحث",
-        "action": "عمل",
-        "usersAllowed": "يسمح المستخدمون",
-        "channelsAllowed": "القنوات المسموح بها",
-        "userType": "نوع المستخدم",
-        "userRole": "دور المستخدم",
-        "profileDetails": "تفاصيل الملف الشخصي",
-        "profileNameRequired": "مطلوب اسم الملف الشخصي",
-        "goToPage": "انتقل إلى صفحة",
-        "show": "يعرض",
-        "nextPage": "الصفحة التالية",
-        "previousPage": "الصفحة السابقة"
-      },
-      "buttonLabels": {
-        "filters": "المرشحات",
-        "apply": "يتقدم",
-        "clear": "صافي",
-        "close": "أغلق",
-        "cancel": "إلغاء",
-        "add": "يضيف",
-        "success": "النجاح",
-        "done": "فعله",
-        "error": "خطأ",
-        "back": "الى الخلف",
-        "confirm": "تؤكد",
-        "modify": "تعديل",
-        "yes": "نعم",
-        "no": "رقم"
-      }
-    },
-    "messages": {
-      "serviceUnavailable": "الخدمة غير متاحة حاليا",
-      "unauthorized": "أنك غير مخول",
-      "internalServerError": "خطأ في الخادم الداخلي",
-      "contactSysAdmin": "هناك خطأ ما! يرجى الاتصال بمسؤول النظام.",
-      "noOptionsAvailable": "لا توجد خيارات متاحة ل",
-      "noDataFound": "لاتوجد بيانات",
-      "selectGatewayTypes": "حدد نوع بوابة واحدة على الأقل",
-      "deleteModalMessage": "هل أنت متأكد من أنك تريد حذف الملف الشخصي؟",
-      "viewUnauthorized": "ليس لديك امتيازات لعرض هذا السجل."
-    },
-    "errorPage": {
-      "pageNotFound": "آسف ، الصفحة التي تبحث عنها غير متوفرة.",
-      "unauthorized": "آسف ، أنت غير مخول للوصول إلى صفحة الويب. حاول تسجيل الدخول مرة أخرى. إذا استمرت المشكلة ، فاتصل بمسؤول لمزيد من المعلومات."
-    }
-  }
+	"authProfile": {
+		"title": "authorization profile",
+		"addProfile": {
+			"title": "add profile"
+		},
+		"editProfile": {
+			"title": "edit profile"
+		},
+		"cloneProfile": {
+			"title": "clone profile"
+		},
+		"viewProfile": {
+			"title": "view profile"
+		},
+		"reviewProfile": {
+			"title": "Review and Confirm",
+			"moduleConfigured": "module configured in total",
+			"modulesConfigured": "modules configured in total"
+		},
+		"listProfile": {
+			"filters": {
+				"text": {
+					"status": "Status",
+					"category": "Category"
+				},
+				"checkbox": {
+					"default": "Default",
+					"userDefined": "User-Defined"
+				}
+			},
+			"table": {
+				"columns": {
+					"profileName": "PROFILE NAME",
+					"category": "CATEGORY",
+					"type": "TYPE",
+					"createdOn": "CREATED ON",
+					"createdBy": "CREATED BY",
+					"modifiedOn": "MODIFIED ON"
+				}
+			}
+		}
+	},
+	"common": {
+		"text": {
+			"selectUserType": "Select user type",
+			"selectUserRole": "Select user role",
+			"setupProfile": "setup profile",
+			"profileName": "profile name",
+			"enterProfileName": "Enter Profile Name",
+			"modules": "Modules",
+			"services": "Services",
+			"setServicePreferences": "Set Service Preferences",
+			"search": "search",
+			"action": "ACTION",
+			"usersAllowed": "users allowed",
+			"channelsAllowed": "channels allowed",
+			"userType": "user type",
+			"userRole": "user role",
+			"profileDetails": "profile details",
+			"profileNameRequired": "Profile Name is required",
+			"goToPage": "Go to Page",
+			"show": "Show",
+			"nextPage": "Next PAge",
+			"previousPage": "Previous Page"
+		},
+		"buttonLabels": {
+			"filters": "filters",
+			"apply": "apply",
+			"clear": "clear",
+			"close": "CLOSE",
+			"cancel": "cancel",
+			"add": "add",
+			"success": "success",
+			"done": "done",
+			"error": "error",
+			"back": "back",
+			"confirm": "confirm",
+			"modify": "modify",
+			"yes": "yes",
+			"no": "no"
+		}
+	},
+	"messages": {
+		"serviceUnavailable": "Service is currently unavailable",
+		"unauthorized": "You are not authorized",
+		"internalServerError": "Internal Server Error",
+		"contactSysAdmin": "Something went wrong! Please contact System Administrator.",
+		"noOptionsAvailable": "No options available for",
+		"noDataFound": "No Data Found",
+		"selectGatewayTypes": "Select atleast one gateway type",
+		"deleteModalMessage": "Are you sure you want to delete the profile ?",
+		"viewUnauthorized": "You don't have privileges to view this record."
+	},
+	"errorPage": {
+		"pageNotFound": "Sorry, the page you are looking for is not available.",
+		"unauthorized": "Sorry, you are not authorized to access the webpage. Try to login again. If the problem persists, contact administrator for further information."
+	}
+}

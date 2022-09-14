@@ -1,99 +1,99 @@
 {
-    "authProfile": {
-      "title": "profil d'autorisation",
-      "addProfile": {
-        "title": "ajouter un profil"
-      },
-      "editProfile": {
-        "title": "Editer le profil"
-      },
-      "cloneProfile": {
-        "title": "profil de clonage"
-      },
-      "viewProfile": {
-        "title": "Voir le profil"
-      },
-      "reviewProfile": {
-        "title": "Examiner et confirmer",
-        "moduleConfigured": "module configuré au total",
-        "modulesConfigured": "modules configurés au total"
-      },
-      "listProfile": {
-        "filters": {
-          "text": {
-            "status": "Statut",
-            "category": "Catégorie"
-          },
-          "checkbox": {
-            "default": "Défaut",
-            "userDefined": "Défini par l'utilisateur"
-          }
-        },
-        "table": {
-          "columns": {
-            "profileName": "NOM DE PROFIL",
-            "category": "CATÉGORIE",
-            "type": "TAPER",
-            "createdOn": "CRÉÉ SUR",
-            "createdBy": "CRÉÉ PAR",
-            "modifiedOn": "Modifié sur"
-          }
-        }
-      }
-    },
-    "common": {
-      "text": {
-        "selectUserType": "Sélectionner le type d'utilisateur",
-        "selectUserRole": "Sélectionner le rôle utilisateur",
-        "setupProfile": "Profil de configuration",
-        "profileName": "nom de profil",
-        "enterProfileName": "Entrez le nom du profil",
-        "modules": "Modules",
-        "services": "Prestations de service",
-        "setServicePreferences": "Définir les préférences de service",
-        "search": "chercher",
-        "action": "ACTION",
-        "usersAllowed": "les utilisateurs autorisés",
-        "channelsAllowed": "canaux autorisés",
-        "userType": "type d'utilisateur",
-        "userRole": "rôle d'utilisateur",
-        "profileDetails": "Détails du profil",
-        "profileNameRequired": "Le nom du profil est requis",
-        "goToPage": "Aller à la page",
-        "show": "Spectacle",
-        "nextPage": "Page suivante",
-        "previousPage": "Page précédente"
-      },
-      "buttonLabels": {
-        "filters": "filtres",
-        "apply": "appliquer",
-        "clear": "dégager",
-        "close": "PROCHE",
-        "cancel": "annuler",
-        "add": "ajouter",
-        "success": "Succès",
-        "done": "finie",
-        "error": "Erreur",
-        "back": "retour",
-        "confirm": "confirmer",
-        "modify": "modifier",
-        "yes": "oui",
-        "no": "non"
-      }
-    },
-    "messages": {
-      "serviceUnavailable": "Le service n'est pas disponible actuellement",
-      "unauthorized": "Vous n'êtes pas autorisé",
-      "internalServerError": "Erreur interne du serveur",
-      "contactSysAdmin": "Quelque chose s'est mal passé! Veuillez contacter l'administrateur du système.",
-      "noOptionsAvailable": "Aucune option disponible pour",
-      "noDataFound": "Aucune donnée disponible",
-      "selectGatewayTypes": "Sélectionnez au moins un type de passerelle",
-      "deleteModalMessage": "Êtes-vous sûr de vouloir supprimer le profil?",
-      "viewUnauthorized": "Vous n'avez pas de privilèges pour voir cet enregistrement."
-    },
-    "errorPage": {
-      "pageNotFound": "Désolé, la page que vous recherchez n'est pas disponible.",
-      "unauthorized": "Désolé, vous n'êtes pas autorisé à accéder à la page Web. Essayez de vous connecter à nouveau. Si le problème persiste, contactez l'administrateur pour plus d'informations."
-    }
-  }
+	"authProfile": {
+		"title": "authorization profile",
+		"addProfile": {
+			"title": "add profile"
+		},
+		"editProfile": {
+			"title": "edit profile"
+		},
+		"cloneProfile": {
+			"title": "clone profile"
+		},
+		"viewProfile": {
+			"title": "view profile"
+		},
+		"reviewProfile": {
+			"title": "Review and Confirm",
+			"moduleConfigured": "module configured in total",
+			"modulesConfigured": "modules configured in total"
+		},
+		"listProfile": {
+			"filters": {
+				"text": {
+					"status": "Status",
+					"category": "Category"
+				},
+				"checkbox": {
+					"default": "Default",
+					"userDefined": "User-Defined"
+				}
+			},
+			"table": {
+				"columns": {
+					"profileName": "PROFILE NAME",
+					"category": "CATEGORY",
+					"type": "TYPE",
+					"createdOn": "CREATED ON",
+					"createdBy": "CREATED BY",
+					"modifiedOn": "MODIFIED ON"
+				}
+			}
+		}
+	},
+	"common": {
+		"text": {
+			"selectUserType": "Select user type",
+			"selectUserRole": "Select user role",
+			"setupProfile": "setup profile",
+			"profileName": "profile name",
+			"enterProfileName": "Enter Profile Name",
+			"modules": "Modules",
+			"services": "Services",
+			"setServicePreferences": "Set Service Preferences",
+			"search": "search",
+			"action": "ACTION",
+			"usersAllowed": "users allowed",
+			"channelsAllowed": "channels allowed",
+			"userType": "user type",
+			"userRole": "user role",
+			"profileDetails": "profile details",
+			"profileNameRequired": "Profile Name is required",
+			"goToPage": "Go to Page",
+			"show": "Show",
+			"nextPage": "Next PAge",
+			"previousPage": "Previous Page"
+		},
+		"buttonLabels": {
+			"filters": "filters",
+			"apply": "apply",
+			"clear": "clear",
+			"close": "CLOSE",
+			"cancel": "cancel",
+			"add": "add",
+			"success": "success",
+			"done": "done",
+			"error": "error",
+			"back": "back",
+			"confirm": "confirm",
+			"modify": "modify",
+			"yes": "yes",
+			"no": "no"
+		}
+	},
+	"messages": {
+		"serviceUnavailable": "Service is currently unavailable",
+		"unauthorized": "You are not authorized",
+		"internalServerError": "Internal Server Error",
+		"contactSysAdmin": "Something went wrong! Please contact System Administrator.",
+		"noOptionsAvailable": "No options available for",
+		"noDataFound": "No Data Found",
+		"selectGatewayTypes": "Select atleast one gateway type",
+		"deleteModalMessage": "Are you sure you want to delete the profile ?",
+		"viewUnauthorized": "You don't have privileges to view this record."
+	},
+	"errorPage": {
+		"pageNotFound": "Sorry, the page you are looking for is not available.",
+		"unauthorized": "Sorry, you are not authorized to access the webpage. Try to login again. If the problem persists, contact administrator for further information."
+	}
+}
